@@ -36,6 +36,8 @@ with open('channel_list.csv', newline='') as csvfile:
 #%% Step 1. Populate missing channel IDs.
 
 def scrape_channel_for_id(channel_url):
+    print("Scraping channel for id: ", channel_url)
+
     #load the html for the url
     page = requests.get(channel_url)
 
@@ -54,11 +56,9 @@ for channel in channel_list:
 
 # Now overwrite the channel_list.csv with the updated channel_list
 with open('channel_list.csv', 'w', newline='') as csvfile:
-    fieldnames = ['category', 'channel_url', 'channel_id', 'rss_url']
     writer = csv.DictWriter(csvfile, fieldnames=channel_list[0].keys())
     writer.writeheader()
     writer.writerows(channel_list)
-
 
 
 
