@@ -82,17 +82,18 @@ def get_latest_video_data(channel_id):
     video_id = entry.find('videoId').text
     date = entry.find('published').text
     author = entry.find('author').find('name').text
-    return (author, title, video_id, date, channel_id)
+    return (author, title, video_id, date)
 
 
 # Iterate through the channels and get the latest video info for each.
 # Push between each channel to avoid getting rate limiting.
 # (I don't think I'll run into issues accessing youtube's rss feeds this way, but better safe than sorry.)
-video_list = []
 for channel in channel_list:
-    video_list.append(get_latest_video_data(channel['channel_id']))
-    # prepend category to the tuple
-    video_list[-1] = (channel['category'],) + video_list[-1]
+    author, title, video_id, date = get_latest_video_data(channel['channel_id'])
+    channel['author'] = author
+    channel['title'] = title
+    channel['video_id'] = video_id
+    channel['date'] = date
     time.sleep(.1)
 
 
@@ -101,20 +102,19 @@ for channel in channel_list:
 
 # First, let's just output the result to a csv file.
 with open('latest_videos.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['author', 'title', 'video_id', 'date', 'channel_id'])
-    writer.writerows(video_list)
+    writer = csv.DictWriter(csvfile, fieldnames=channel_list[0].keys())
+    writer.writeheader()
+    writer.writerows(channel_list)
 
 
 
 # Now let's generate a cute litlte html file with the videos embedded.
 # TODO: I need to come back here and figure out the best way to make this work with my blog.
-# Another TODO: rewrite the rss reader above to put everything into a dictionary instead of a tuple.
 # TODO: Link to fullscreen embed instead of embedding in the page. EG: https://www.youtube.com/embed/YvIMIUYju1w
 
 html = '<html><head></head><body>'
-for video in video_list:
-    html += f'<div class="video"><h2>{video[1]}</h2><p>{video[0]} - {video[3]}</p><iframe width="560" height="315" src="https://www.youtube.com/embed/{video[2]}"></iframe></div>'
+for channel in channel_list:
+    html += f'<div class="video"><h2>{channel['title']}</h2><p>{channel['author']} - {channel['date']}</p><iframe width="560" height="315" src="https://www.youtube.com/embed/{channel['video_id']}"></iframe></div>'
 html += '</body></html>'
 with open('latest_videos.html', 'w') as htmlfile:
     htmlfile.write(html)
