@@ -12,8 +12,8 @@ The channel url is plainly visible; the channel id takes some inspection.
 2. For every channel in the list, this script gets the rss feed and reads the information for the latest video.
 (I only want the latest video from each channel.)
 
-3. The info tuples for these videos are sorted by category and upload date,
-and the sorted list is written into a csv or json file to read later.
+3. The info tuples for these videos is written into a format I can read later.
+(I don't sort them. Order matches order from input channel_list.csv.)
 '''
 
 
@@ -22,6 +22,8 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import csv
+import time
+
 
 # Read the channel list from channel_list.csv into a list of dictionaries.
 # Each dictionary will have the following keys:
@@ -64,13 +66,63 @@ with open('channel_list.csv', 'w', newline='') as csvfile:
 
 # %% Step 2. Get the RSS feed for a channel and read the latest video.
 # The RSS feed is at https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID
+# For example,  https://www.youtube.com/feeds/videos.xml?channel_id=UCfBAKxelvdN2XDFBcofx7Dg
+
+def get_latest_video_data(channel_id):
+    rss_url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
+    print("Getting latest video from: ", rss_url)
+
+    #load the xml for the url
+    page = requests.get(rss_url)
+
+    #Find the latest video
+    soup = BeautifulSoup(page.content, 'xml')
+    entry = soup.find('entry')
+    title = entry.find('title').text
+    video_id = entry.find('videoId').text
+    date = entry.find('published').text
+    author = entry.find('author').find('name').text
+    return (author, title, video_id, date, channel_id)
+
+
+# Iterate through the channels and get the latest video info for each.
+# Push between each channel to avoid getting rate limiting.
+# (I don't think I'll run into issues accessing youtube's rss feeds this way, but better safe than sorry.)
+video_list = []
+for channel in channel_list:
+    video_list.append(get_latest_video_data(channel['channel_id']))
+    # prepend category to the tuple
+    video_list[-1] = (channel['category'],) + video_list[-1]
+    time.sleep(.1)
 
 
 
-    
+# %% Step 3. Write to a format I can read later.
+
+# First, let's just output the result to a csv file.
+with open('latest_videos.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['author', 'title', 'video_id', 'date', 'channel_id'])
+    writer.writerows(video_list)
+
+
+
+# Now let's generate a cute litlte html file with the videos embedded.
+# TODO: I need to come back here and figure out the best way to make this work with my blog.
+# Another TODO: rewrite the rss reader above to put everything into a dictionary instead of a tuple.
+# TODO: Link to fullscreen embed instead of embedding in the page. EG: https://www.youtube.com/embed/YvIMIUYju1w
+
+html = '<html><head></head><body>'
+for video in video_list:
+    html += f'<div class="video"><h2>{video[1]}</h2><p>{video[0]} - {video[3]}</p><iframe width="560" height="315" src="https://www.youtube.com/embed/{video[2]}"></iframe></div>'
+html += '</body></html>'
+with open('latest_videos.html', 'w') as htmlfile:
+    htmlfile.write(html)
 
 
 
 
-# %% Step 3. Sort the videos by category and upload date, and write to a csv or json file.
 
+
+
+# %%
