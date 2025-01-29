@@ -1,1 +1,3 @@
-BeautifulSoup
+requests
+beautifulsoup4
+datetime
