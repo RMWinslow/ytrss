@@ -112,10 +112,12 @@ with open('latest_videos.csv', 'w', newline='') as csvfile:
 # TODO: I need to come back here and figure out the best way to make this work with my blog.
 # TODO: Link to fullscreen embed instead of embedding in the page. EG: https://www.youtube.com/embed/YvIMIUYju1w
 
+timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
 html = '<html><head></head><body>'
 for channel in channel_list:
     html += f'<div class="video"><h2>{channel['title']}</h2><p>{channel['author']} - {channel['date']}</p><iframe width="560" height="315" src="https://www.youtube.com/embed/{channel['video_id']}"></iframe></div>'
-html += '</body></html>'
+html += f'<p>Generated on: {timestamp}</p></body></html>'
 with open('latest_videos.html', 'w') as htmlfile:
     htmlfile.write(html)
 
