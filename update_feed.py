@@ -108,6 +108,14 @@ with open('latest_videos.csv', 'w', newline='') as csvfile:
 
 
 
+# Next, let's output to json format using the list of dicts:
+import json
+with open('latest_videos.json', 'w') as jsonfile:
+    json.dump(channel_list, jsonfile, indent=4)
+
+
+
+
 # Now let's generate a cute litlte html file with the videos embedded.
 # TODO: I need to come back here and figure out the best way to make this work with my blog.
 
