@@ -125,6 +125,7 @@ def get_latest_video_data(channel_id):
 # Iterate through the channels and get the latest video info for each.
 # Push between each channel to avoid getting rate limiting.
 # (I don't think I'll run into issues accessing youtube's rss feeds this way, but better safe than sorry.)
+# If the scrape fails, remove that channel from the list. That way, I can ignore it later.
 for channel in channel_list:
     try:
         author, title, video_id, date = get_latest_video_data(channel['channel_id'])
@@ -134,7 +135,8 @@ for channel in channel_list:
         channel['date'] = date
         time.sleep(.1)
     except:
-        print("Failed to get latest video for: ", channel['channel_url'])
+        print("Failed to get latest video for: ", channel['channel_url'], "Removing from list.")
+        channel_list.remove(channel)
 
 
 
