@@ -23,6 +23,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import csv
 import time
+import json
+import re
 
 
 # Read the channel list from channel_list.csv into a list of dictionaries.
@@ -35,7 +37,11 @@ with open('channel_list.csv', newline='') as csvfile:
 
 
 
-#%% Step 1. Populate missing channel IDs.
+#%% Step 1. Populate missing channel IDs and vanity URLs.
+# - The vanity url is easy to find by copypasting from the address bar in a browser.
+# - The channel_id is what I really need and is what I have for an existing list of channels,
+#   but is a random jumble of letters and numbers that means nothing to a human.
+# I want the channel list to have both, so here I fill in any blanks.
 
 def scrape_channel_for_id(channel_url):
     print("Scraping channel for id: ", channel_url)
@@ -51,16 +57,41 @@ def scrape_channel_for_id(channel_url):
     channel_id = soup.find('meta', property='og:url')['content'].split('/')[-1]
     return channel_id
 
+def scrape_channel_for_vanity_url(channel_id):
+    print("Scraping channel for vanity url: ", channel_id)
+    page = requests.get(f'https://www.youtube.com/channel/{channel_id}')
+
+    # One way to find the vanity url is to search for a substring like 
+    #   `"vanityChannelUrl":"http://www.youtube.com/@DimeStoreAdventures"`
+    # buried inside some json speghetti deep the page's source.
+    # A lot of the other places I'd expect to find it actually change to use whatever url you used to get there.
+    # And the canonical url actually uses channel_id.
+    pattern = re.compile(r'''
+        "vanityChannelUrl":"
+        (http://www\.youtube\.com/@[^"]+)  # Capture the URL in a group
+        "
+        ''', re.VERBOSE)
+    match = pattern.search(page.text)
+    if match:
+        return match.group(1)
+
+
+
 # Iterate through the channels and scrape for the channel_id if it's missing ('' or None)
 for channel in channel_list:
     if channel['channel_id'] in ('', None):
         channel['channel_id'] = scrape_channel_for_id(channel['channel_url'])
+    if channel['channel_url'] in ('', None):
+        channel['channel_url'] = scrape_channel_for_vanity_url(channel['channel_id'])
 
 # Now overwrite the channel_list.csv with the updated channel_list
 with open('channel_list.csv', 'w', newline='') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=channel_list[0].keys())
     writer.writeheader()
     writer.writerows(channel_list)
+
+
+
 
 
 
@@ -109,7 +140,6 @@ with open('latest_videos.csv', 'w', newline='') as csvfile:
 
 
 # Next, let's output to json format using the list of dicts:
-import json
 with open('latest_videos.json', 'w') as jsonfile:
     json.dump(channel_list, jsonfile, indent=4)
 
