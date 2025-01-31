@@ -80,9 +80,15 @@ def scrape_channel_for_vanity_url(channel_id):
 # Iterate through the channels and scrape for the channel_id if it's missing ('' or None)
 for channel in channel_list:
     if channel['channel_id'] in ('', None):
-        channel['channel_id'] = scrape_channel_for_id(channel['channel_url'])
+        try:
+            channel['channel_id'] = scrape_channel_for_id(channel['channel_url'])
+        except:
+            print("Failed to scrape channel_id for: ", channel['channel_url'])
     if channel['channel_url'] in ('', None):
-        channel['channel_url'] = scrape_channel_for_vanity_url(channel['channel_id'])
+        try:
+            channel['channel_url'] = scrape_channel_for_vanity_url(channel['channel_id'])
+        except:
+            print("Failed to scrape channel_url for: ", channel['channel_id'])
 
 # Now overwrite the channel_list.csv with the updated channel_list
 with open('channel_list.csv', 'w', newline='') as csvfile:
@@ -120,12 +126,16 @@ def get_latest_video_data(channel_id):
 # Push between each channel to avoid getting rate limiting.
 # (I don't think I'll run into issues accessing youtube's rss feeds this way, but better safe than sorry.)
 for channel in channel_list:
-    author, title, video_id, date = get_latest_video_data(channel['channel_id'])
-    channel['author'] = author
-    channel['title'] = title
-    channel['video_id'] = video_id
-    channel['date'] = date
-    time.sleep(.1)
+    try:
+        author, title, video_id, date = get_latest_video_data(channel['channel_id'])
+        channel['author'] = author
+        channel['title'] = title
+        channel['video_id'] = video_id
+        channel['date'] = date
+        time.sleep(.1)
+    except:
+        print("Failed to get latest video for: ", channel['channel_url'])
+
 
 
 
