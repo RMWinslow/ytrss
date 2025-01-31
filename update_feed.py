@@ -110,13 +110,71 @@ with open('latest_videos.csv', 'w', newline='') as csvfile:
 
 # Now let's generate a cute litlte html file with the videos embedded.
 # TODO: I need to come back here and figure out the best way to make this work with my blog.
-# TODO: Link to fullscreen embed instead of embedding in the page. EG: https://www.youtube.com/embed/YvIMIUYju1w
 
 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-html = '<html><head></head><body>'
+html = '''
+<html><head>
+<style>
+  :root { 
+    --bordercolor: brown; 
+    --boxcolor: white; 
+    --feedbackcolor: gray; 
+    --textcolor: black; 
+  }
+  .videoBlock {
+    border: 1px solid var(--bordercolor);
+    min-height: 65px;
+    background-color: var(--boxcolor);
+    display: flex;
+  }
+  .videoBlock:hover {
+    background-color: var(--feedbackcolor);
+  }
+  .videoBlock a {
+    text-decoration: none !important;
+    flex: 1;
+  }
+  .videoBlock a:visited {
+    color: var(--textcolor);
+  }
+  .videoBlock .mainlink {
+    margin-bottom: 0rem;
+    margin-top: 0.5rem;
+    font-size: 110%;
+    font-weight: bold;
+    line-height: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .videoBlock img {
+    float: left;
+    margin-right: 1rem;
+    height: 65px;
+  }
+  .videoBlock .metadata {
+    color: var(--textcolor);
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>
+</head>
+<body>
+'''
 for channel in channel_list:
-    html += f'<div class="video"><h2>{channel['title']}</h2><p>{channel['author']} - {channel['date']}</p><iframe width="560" height="315" src="https://www.youtube.com/embed/{channel['video_id']}"></iframe></div>'
+    html += f'''
+    <div class="videoBlock">
+    <a href="https://www.youtube.com/embed/{channel['video_id']}">
+        <img src="https://i3.ytimg.com/vi/{channel['video_id']}/default.jpg"/>
+        <div class="mainlink">{channel['title']}</div>
+        <div class="metadata">{channel['author']} - {channel['date'][:10]}</div>
+    </a>
+    </div>
+    '''
 html += f'<p>Generated on: {timestamp}</p></body></html>'
 with open('latest_videos.html', 'w') as htmlfile:
     htmlfile.write(html)
