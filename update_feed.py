@@ -152,15 +152,15 @@ for channel in channel_list:
 # %% Step 3. Write to a format I can read later.
 
 # First, let's just output the result to a csv file.
-with open('latest_videos.csv', 'w', newline='') as csvfile:
+with open('latest_videos.csv', 'w', newline='',encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=latest_video_list[0].keys())
     writer.writeheader()
-    writer.writerows(channel_list)
+    writer.writerows(latest_video_list)
 
 
 
 # Next, let's output to json format using the list of dicts:
-with open('latest_videos.json', 'w') as jsonfile:
+with open('latest_videos.json', 'w',encoding='utf-8') as jsonfile:
     json.dump(latest_video_list, jsonfile, indent=4)
 
 
