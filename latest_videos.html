@@ -53,6 +53,15 @@
 
 <div id="youtube_feeds"></div>
 
+<hr>
+
+
+<details>
+<summary>All channels. Click to expand.</summary>
+<div id="feed_combined" class="youtubeFeed"></div>
+</details>
+  
+
 
 <script>
 const channel_groups = new Map();
@@ -74,9 +83,7 @@ function process_channels(channels) {
 
   // Sort each category by date.
   channel_groups.forEach((category_channels, category) => {
-    category_channels.sort((a, b) => {
-      return new Date(b.date) - new Date(a.date);
-    });
+    category_channels.sort(channel_date_sorter);
   });
 
   // Create a header and feed for each category.
@@ -93,6 +100,12 @@ function process_channels(channels) {
     });
     feed_div.appendChild(category_feed);
   });
+
+  // Finally, do the process again for the giant combined feed. 
+  channels.sort(channel_date_sorter);
+  channels.forEach(channel => {
+    document.getElementById('feed_combined').appendChild(create_video_block(channel));
+  });
 }
 
 function create_video_block(channel) {
@@ -106,6 +119,11 @@ video_block.innerHTML = `
   </a>
 `;
 return video_block;
+}
+
+
+function channel_date_sorter (a,b) {
+    return new Date(b.date) - new Date(a.date);
 }
 
 </script>
