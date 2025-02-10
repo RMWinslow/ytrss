@@ -1,7 +1,4 @@
 category,channel_url,channel_id,author,title,video_id,date
-foo,https://www.youtube.com/@williamosman,UCfMJ2MchTSW2kWaT0kK94Yw,William Osman,I Turned 1-Star Toys into Military Nightmares,YvIMIUYju1w,2024-05-28T21:22:12+00:00
-foo,https://www.youtube.com/@StarTalk,UCqoAEDirJPjEUFcF2FklnBA,StarTalk,What Is Isaac's Storm?,OjpEvEKzkqs,2025-02-09T15:30:12+00:00
-bar,https://www.youtube.com/@JoePeraComedy/,UCfBAKxelvdN2XDFBcofx7Dg,Joe Pera,Want to fall asleep in the library? New sleep podcast episode out now to do just that.,Uta1_stG0vI,2025-02-03T17:32:25+00:00
 A Man Walks About Describing Things,http://www.youtube.com/@DimeStoreAdventures,UCUMQFUkgaEE68_ujIdW2wAw,Dime Store Adventures,A Boy & His 1920’s Antique Postcard Projector,Jpvt6RmEWr4,2025-02-07T22:19:51+00:00
 A Man Walks About Describing Things,http://www.youtube.com/@TomScottGo,UCBa659QWEk1AI4Tg--mrJ2A,Tom Scott,"After ten years, it's time to stop weekly videos.",7DKv5H5Frt0,2024-01-01T16:00:06+00:00
 A Man Walks About Describing Things,http://www.youtube.com/@AtomicFrontier,UCbCq5Y0WPGimG2jNXhoQxGw,Atomic Frontier,Industrial robots are (nearly) perfect,8gy6ZvIDtbU,2025-01-25T12:00:10+00:00
@@ -14,6 +11,7 @@ Math,http://www.youtube.com/@standupmaths,UCSju5G2aFaWMqn-_0YBtq5A,Stand-up Math
 Math,http://www.youtube.com/@Reducible,UCK8XIGR5kRidIw2fWqwyHRA,Reducible,A* Search: How Your Map Applications Find Shortest Routes,88I6IidylGc,2024-07-27T01:04:19+00:00
 Math,http://www.youtube.com/@henryseg,UC4zzTEL5tuIgGMvzjk1Ozbg,Henry Segerman,Geared icosahedron net,EP8KJvk_p_g,2024-12-23T15:35:00+00:00
 Math,http://www.youtube.com/@upandatom,UCSIvk78tK2TiviLQn4fSHaw,Up and Atom,Amateurs Just Solved a 30-Year-Old Math Problem,pQWFSj1CXeg,2025-02-05T12:02:31+00:00
+Math,http://www.youtube.com/@GeorgeHart-math,UCTl0dASnxto6j2wlVs5Bs2Q,George Hart,A Mathematician's View on Math Education,FfT0ZLSupnY,2024-10-29T21:47:03+00:00
 Media Commentary,http://www.youtube.com/@RedLetterMedia,UCrTNhL_yO3tPTdQ5XgmmWjA,RedLetterMedia,Breakdown (1997) - re:Visit,dd8_b_kuZb0,2025-02-08T16:00:36+00:00
 Media Commentary,http://www.youtube.com/@CaptainDisillusion,UCEOXxzW2vU0P-0THehuIIeg,Captain Disillusion,something funny right now,aGDSt5XF02I,2024-12-29T05:00:36+00:00
 Media Commentary,http://www.youtube.com/@JennyNicholson,UC7-E5xhZBZdW-8d7V80mzfg,Jenny Nicholson,The Spectacular Failure of the Star Wars Hotel,T0CpOYZZZW4,2024-05-18T23:38:48+00:00
@@ -21,12 +19,15 @@ Media Commentary,http://www.youtube.com/@RealVirtualFrog,UCZXAVdAplsu1tFZ9OqQhJF
 Media Commentary,http://www.youtube.com/@any_austin,UCH_7doiCkWeq0v3ycWE5lDw,Any Austin,Red Dead Redemption 2 vs. A Tiny CRT,x_tohNLvkxk,2025-01-27T17:08:06+00:00
 Media Commentary,http://www.youtube.com/@JillBearup,UCRrvZqCL1YsqRA8IpXrhYQQ,Jill Bearup,"Not 🔥Ragebait🔥, Just Algebra",jF-TNZ9RVKk,2025-02-07T10:44:16+00:00
 Media Commentary,http://www.youtube.com/@lindybeige,UC9pgQfOXRsp4UKrI8q0zjXQ,Lindybeige,When was Britain's last war with France?  How did it start?,Vr6R3Dh9Hws,2025-01-25T05:12:12+00:00
+Media Commentary,http://www.youtube.com/@LetsGameItOut,UCto7D1L-MiRoOziCXK9uT5Q,Let's Game It Out,I Ruined an Entire City With Unrelenting 100% Insanity - Highway Police Simulator,TklCFItgzzo,2024-12-14T16:00:23+00:00
+Media Commentary,http://www.youtube.com/@DougDoug,UClyGlKOhDUooPJFy4v_mqPg,DougDoug,Can Twitch Chat defeat the literal smartest Ai in Geoguessr?,JmoFvtBBDJw,2025-01-09T20:05:46+00:00
 Food and Cookery,http://www.youtube.com/@aragusea,UC9_p50tH3WmMslWRWKnM7dQ,Adam Ragusea,Why charcoal is the first great cooking fuel,BRAyG0QrNA0,2025-02-06T19:00:07+00:00
 Food and Cookery,http://www.youtube.com/@TastingHistory,UCsaGKqPZnGp_7N80hcHySGQ,Tasting History with Max Miller,Making Hot Chocolate from 1747,v3D40uXCXtA,2025-02-07T15:01:24+00:00
 Food and Cookery,http://www.youtube.com/@babishculinaryuniverse,UCJHA_jMfCvEnv-3kRjTCQXw,Babish Culinary Universe,Quadruple Patty Garlic Burger from Burger King Japan | Anything with Alvin,uQBET-P38Qg,2025-02-08T14:00:59+00:00
 Food and Cookery,http://www.youtube.com/@foodwishes,UCRIZtPl9nb9RiXc9btSTQNw,Food Wishes,Mississippi Pot Roast Cheesesteak | Super Bowl Special | Food Wishes,uJ916qAgkWw,2025-02-07T18:11:31+00:00
 Food and Cookery,http://www.youtube.com/@OrdinarySausage,UCJLKwTg0IaSMoq6hLHT3CAA,Ordinary Sausage,One Pound Deep Fried Brick of Cheese,i5YfwYG8iY8,2025-02-09T18:15:03+00:00
 Food and Cookery,http://www.youtube.com/@townsends,UCxr2d4As312LulcajAkKJYw,Townsends,Candy In The 18th Century,DWSHvfDx1ig,2025-02-09T14:00:14+00:00
+Making Terrible Things,https://www.youtube.com/@williamosman,UCfMJ2MchTSW2kWaT0kK94Yw,William Osman,I Turned 1-Star Toys into Military Nightmares,YvIMIUYju1w,2024-05-28T21:22:12+00:00
 The Fan Fandom,http://www.youtube.com/@matthiasrandomstuff2221,UC3_AWXcf2K3l9ILVuQe-XwQ,Matthias random stuff,"Servo vs steppers: Speed, Torque and Accuracy",H-nO1F-AO9I,2025-01-14T13:52:31+00:00
 The Fan Fandom,http://www.youtube.com/@MajorHardware,UCUXW4gT27TOaDzKFyN-1tXQ,Major Hardware,The 3D Printer That Broke Me: My 10-Month Battle with the Elegoo OrangeStorm Giga,xAPw2INpqJw,2025-01-18T13:49:12+00:00
 The Fan Fandom,http://www.youtube.com/@ThinkingandTinkering,UC4AkVj-qnJxNtKuz3rkq16A,Robert Murray-Smith,2341 Something Different With A 3D Printer - Cyanotypes And Tea,GluNgAFQVkY,2025-02-07T16:00:16+00:00
@@ -44,3 +45,53 @@ Knick Knacks and Thingamajigs,http://www.youtube.com/@ObjectHistory,UC7hlBf8aKs1
 Knick Knacks and Thingamajigs,http://www.youtube.com/@DankPods,UC7Jwj9fkrf1adN4fMmTkpug,DankPods,The Dick Smith Dick-A-Thon.,TR-2eQ17IF8,2025-02-02T21:22:08+00:00
 Knick Knacks and Thingamajigs,http://www.youtube.com/@Games_for_James,UCx6cailiCkg_mlMM7JX5yfA,James Channel,The Apple Gaming Console*,LlZkD3bbfM4,2025-01-30T19:30:03+00:00
 Knick Knacks and Thingamajigs,http://www.youtube.com/@Techmoan,UC5I2hjZYiW9gZPVkvzM8_Cw,Techmoan,The only B&O 'Boombox',0_gyA_qfZz0,2025-02-08T10:00:48+00:00
+Misc Science Commentary,https://www.youtube.com/@StarTalk,UCqoAEDirJPjEUFcF2FklnBA,,,,
+Misc Science Commentary,http://www.youtube.com/@astropro1,UCDW13ycIiHcl4QVN-YwVy0w,Astro Pro,Why These Exoplanets Are FINALLY Getting Names,EavdsOv8-BA,2023-03-08T12:00:08+00:00
+Misc Science Commentary,http://www.youtube.com/@astrumspace,UC-9b7aDP6ZN0coj9-xFnrtw,Astrum,The Inconvenient Truth that Breaks the Big Bang Model,RYBanZkMmKM,2025-02-07T22:54:29+00:00
+Misc Science Commentary,http://www.youtube.com/@pbsspacetime,UC7_gcs09iThXybpVgjHZ_7g,PBS Space Time,The Crisis in Physics: Why the Higgs Boson Should NOT Exist!,GjkqedrTwZo,2025-01-30T21:15:01+00:00
+Misc Science Commentary,http://www.youtube.com/@whatdamath,UCciQ8wFcVoIIMi-lfu8-cjQ,Anton Petrov,Strange Pyramid Shape on Mars and Other Incredible Images From the Surface,aYzP7jybsKY,2025-02-09T22:00:00+00:00
+Misc Science Commentary,http://www.youtube.com/@AmyShiraTeitel,UCw95T_TgbGHhTml4xZ9yIqg,The Vintage Space,When chickens were a casualty of supersonic flight #history #shorts,BVnbMaowuiE,2025-02-09T18:00:07+00:00
+Misc Science Commentary,http://www.youtube.com/@acollierastro,UCtscFf8VayggrDYjOwDke_Q,Angela Collier ,an armageddon of armageddons,5l5KHIFIl7U,2025-02-07T21:00:05+00:00
+Misc Science Commentary,http://www.youtube.com/@MinuteEarth,UCeiYXex_fwgYDonaTcSIk6w,MinuteEarth,How worms wormed their way into American soil!,MAwD5_54UKY,2025-02-04T17:00:31+00:00
+Sketch Comedy,https://www.youtube.com/@JoePeraComedy/,UCfBAKxelvdN2XDFBcofx7Dg,Joe Pera,Want to fall asleep in the library? New sleep podcast episode out now to do just that.,Uta1_stG0vI,2025-02-03T17:32:25+00:00
+Sketch Comedy,http://www.youtube.com/@JennaMarbles,UC9gFih9rw0zNCK3ZtoKQQyA,JennaMarbles,Making A Dog Birthday Cake,KHCfr7qvkJs,2020-06-18T03:19:54+00:00
+Sketch Comedy,http://www.youtube.com/@TheAuntyDonnaChannel,UC_mneEC0wc29EGGmIsN_xLA,Aunty Donna,Oh No! Mark Has Had a Fall!,LcUw8e1XCm8,2025-02-09T22:05:08+00:00
+Sketch Comedy,http://www.youtube.com/@TheDragonsTomb,UC3izYCSBcfi2LfdIr-qg0gQ,The Dragon's Tomb,Gnome Hollow Makes No Sense,tndfstKam3U,2025-01-16T12:14:43+00:00
+Sketch Comedy,http://www.youtube.com/@TheAlexErnstShow,UCWk68Uw6V990fjnTbcOHeoA,Alex Ernst,Practicing for if someone asks me how much I pay for rent in LA and wants a tour,H3lXPKmzTiw,2025-01-23T03:22:34+00:00
+Sketch Comedy,http://www.youtube.com/@billwurtz,UCq6aw03lNILzV96UvEAASfQ,bill wurtz,how to pull a rabbit out of a hat,puEXAIiT5wk,2022-11-26T19:54:54+00:00
+Sketch Comedy,http://www.youtube.com/@RyansShorts,UC6yeqgmyqhDyMPzE4wwxQig,Ryan's Shorts,"Ryan’s Great American WEEN Roadtrip Through New Hope, Pennsylvania!",MZbFy-7Mybk,2024-12-18T01:29:00+00:00
+Sketch Comedy,http://www.youtube.com/@briandavidgilbert,UCakAg8hC_RFJm4RI3DlD7SA,brian david gilbert,TALKING SMALL,KL4CIRygoH0,2024-11-18T17:29:13+00:00
+Sketch Comedy,http://www.youtube.com/@Lord_Vinheteiro,UCSE6yilNScIz1SLTNQvrXMw,Vinheteiro,Clavichord! The Instrument on Which Bach Composed His Music,LbrKmwZGynE,2025-01-28T17:15:01+00:00
+Sketch Comedy,http://www.youtube.com/@Mattiaskrantz,UCEgm-3RvRn4nCR-fGGVsfdQ,Mattias Krantz,Gun piano makes music from peoples screams,PBpyCdy4pMg,2025-01-21T09:37:32+00:00
+Sketch Comedy,http://www.youtube.com/@SethEverman,UCoNRSwYHJdy-yV1b82ZdHfQ,SethEverman,Goodbye,NUdTPE1SG_A,2023-11-26T19:15:55+00:00
+Animals and Biology,http://www.youtube.com/@BenGThomas,UCDSzwZqgtJEnUzacq3ddoOQ,Ben G Thomas,5 Strange Prehistoric Creatures Found Trapped In Amber,0mPG6KSOTjY,2024-12-22T22:15:00+00:00
+Animals and Biology,http://www.youtube.com/@TREYtheExplainer,UCOuWeOkMrq84u5LY6apWQ8Q,TREY the Explainer,The Rarest Signature,aFHxsS6uv5g,2025-01-04T16:35:34+00:00
+Animals and Biology,http://www.youtube.com/@eons,UCzR-rom72PHN9Zg7RML9EbA,PBS Eons,The Great Gerbil Herd,lo2Wi3zQ9Yw,2025-02-06T17:15:02+00:00
+Animals and Biology,http://www.youtube.com/@TierZoo,UCHsRtomD4twRf5WVHHk-cMw,TierZoo,Are Wolves Overpowered?,h9ZlONYIlFQ,2024-12-23T16:11:45+00:00
+Animals and Biology,http://www.youtube.com/@SallyLePage,UC9AUeAvdEVJfyS9rd9pvp8g,Sally Le Page,Is all plastic inherently evil?,0t-OA1lym2s,2021-06-14T15:00:02+00:00
+Animals and Biology,http://www.youtube.com/@zefrank,UCVpankR4HtoAVtYnFDUieYA,Ze Frank,Wanna hear an electric ray? #short,EamHH0L_2lA,2025-01-11T16:00:12+00:00
+Animals and Biology,http://www.youtube.com/@KQEDDeepLook,UC-3SbfTPJsL8fJAPKiVqBLg,Deep Look,Sand Piranhas are NOT Sand Fleas! | #DeepLook #Shorts,qH_y05Evf-g,2025-02-03T15:08:23+00:00
+Animals and Biology,http://www.youtube.com/@EVNautilus,UC1KOOWHthbQVXH2kZue3_xA,EVNautilus,Behind the Scenes: Data Collection on E/V Nautilus | Nautilus Live,HQTd8ZnPMrY,2025-01-23T19:00:17+00:00
+Animals and Biology,http://www.youtube.com/@BizarreBeasts,UC9Lp_AA5M2cMGrlvnnIns-g,Bizarre Beasts,The Only Octopus With a Shell,TEGpg3DTDZw,2025-02-03T15:00:38+00:00
+Animals and Biology,http://www.youtube.com/@cmkosemen,UCMy7mRjghOxB8h3nv60SU4w,cmkosemen,❄️ Poul Anderson's Winter of the World: 🧬 Post-Human Libertarian Americans in a New Ice Age 🌍,hkm5Przzzfg,2025-01-31T16:35:34+00:00
+Animals and Biology,http://www.youtube.com/@HistoryoftheEarth,UC_aOteuWIY8ITg7DQQspG1g,History of the Earth,How Has Outer Space Shaped Life on Earth?,GfGxqtW5-y4,2024-12-22T20:37:30+00:00
+Animals and Biology,http://www.youtube.com/@ClintsReptiles,UCH18915fTE6yZzKrqdea8RQ,Clint's Reptiles,The Complete Guide to Mammals - Carnivora,v-oAwxSV0kQ,2025-02-08T13:01:15+00:00
+Animals and Biology,http://www.youtube.com/@AronRa,UCAJfDidJyukTekgSRZrjadw,AronRa,Blasphemers Bible - 2 Kings 5,ioeE8I2e_o4,2025-02-08T19:39:14+00:00
+Animals and Biology,http://www.youtube.com/@journeytomicro,UCBbnbBWJtwsf0jLGUwX5Q3g,Journey to the Microcosmos,infinite microcosmos 🔬 lofi microbes to relax/study to,sil6f9-hc1Q,2024-12-19T17:24:26+00:00
+Animals and Biology,http://www.youtube.com/@Phrenotopia,UCO-8Osf4S3N0m7u1NivTfeg,Phrenotopia,The Vertebrate Recipe | Alien Biosphere Evolution #9,EK_gMZ9GfPg,2024-11-22T17:00:06+00:00
+Animals and Biology,http://www.youtube.com/@octolabtv1168,UCNo_xQ7NvTr31naPAcjQWjg,Octolab TV,Octopus Christmas Tree Shopping,vrthz3HdlPE,2021-12-25T16:08:17+00:00
+Animals and Biology,http://www.youtube.com/@KOTARO_OTTER,UCDYyCQAk60CqabvkL5gU3Mw,KOTSUMET,おもしろい楽器をカワウソに聴かせた結果、ある音にまさかの反応！　Otter Gets Snake Charmed While Listening to Musical Instruments,oNQtZvWf98Q,2025-02-08T10:15:02+00:00
+Animals and Biology,http://www.youtube.com/@NinjaFrog777,UCrJH2Wy7PmCiitXKJ21yh4w,Ninja Frog,Google Pixel 9 Pro XL meets Small Round Frogs,mnub7UHkHmw,2024-09-22T09:30:23+00:00
+Animals and Biology,http://www.youtube.com/@cruiser1228,UCWIxPuO_0emPbma8UlOc3JQ,Cruiser,Qing Bao  (female) and Bao Li ( male) at National Zoo in Washington DC Jan 26 2025,3vT91B34se8,2025-01-27T13:41:43+00:00
+Animals and Biology,http://www.youtube.com/@cherylb4420,UCpjhDz9Sqn-6h1ZwtvUiA2g,Cheryl B,11/4/2022 LS Young Polar bears playing Explore.org,3Z78ZvO4_nk,2022-11-06T05:27:53+00:00
+Animals and Biology,http://www.youtube.com/@Mr.Frog.,UCWUH_hdDfzi98i3clGbh_Ww,Mr. Frog,Life won’t wait！frog vs toad.,HXdc1cFi-_s,2024-12-21T23:56:31+00:00
+Animals and Biology,http://www.youtube.com/@HomuraHam,UCKwcMBhbzQXgSM1T3TvHmiA,Homura Ham,Hamsters in the Crocs Shoe Factory Maze ep. 2 🐹 Homura Ham,hO4PhCrFdUA,2025-01-31T07:00:22+00:00
+Animals and Biology,http://www.youtube.com/@TheUrbanRescueRanch,UCv3mh2P-q3UCtR9-2q8B-ZA,The Urban Rescue Ranch,How to Aura Farm with Bobcats *tutorial*,mTomaUsCnfo,2025-02-06T23:00:48+00:00
+Animals and Biology,http://www.youtube.com/@LOUTRE,UCz6yuUg6N0iRiFhCLmXrNJQ,LOUTRE,Otter Mini #shorts,IiYuo-Xj5Rs,2025-02-09T14:56:52+00:00
+Animals and Biology,http://www.youtube.com/@Bradybrandwood,UCj2Eeg01Mn5WmcXxt695fUg,Brady Brandwood,Leon And The Old Camera,OKdXCGRPeSM,2025-01-08T17:56:55+00:00
+Animals and Biology,http://www.youtube.com/@FOBBVCAM,UCsFgbVuhRrPV5FqyN7kOD8g,FOBBV CAM,2-7-2025 “But it’s still my turn”,Kl_ZIKyFjLY,2025-02-09T15:33:58+00:00
+Animals and Biology,http://www.youtube.com/@wrinkletheduck,UCPPjuJTt9jiOZNHScvEmvRg,seDUCKtive,"“Quack, Quack!!” (duck wants water)",ujBSsK84MeI,2025-02-07T15:35:37+00:00
+Animals and Biology,http://www.youtube.com/@ApolloandFrens,UCnUdaxbBMPQ9o9KVz7Oa6eQ,Apollo and Frens,The Birds Outside Era | Live w/ Apollo the Talking Parrot,aEckuX0RjtI,2025-02-09T21:49:26+00:00
+Animals and Biology,http://www.youtube.com/@davidmbird,UC6q7I1DD2Jv5Ur9UEIavIrA,Becorns | David M Bird,Glowing Snowball,nOvU0v2zqvM,2025-01-22T16:23:55+00:00
+Animals and Biology,http://www.youtube.com/@LesleytheBirdNerd,UCDjdXwT-KrFPsqOSg4KL8Nw,Lesley the Bird Nerd,Male Blue Jays; Blue and Feisty Jay  #bluejay #birdcalls #funnybirds #birds,dxjkn8DrJZk,2025-02-03T22:30:08+00:00
+Animals and Biology,http://www.youtube.com/@MyBackyardBirding,UCcNyzOCKvyMBaA4iQVgO9EQ,MyBackyardBirding,Killdeer “Foot Trembling” Feeding Behavior,MaAGbomI7EQ,2025-02-09T12:00:24+00:00
