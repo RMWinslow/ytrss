@@ -53,6 +53,11 @@ def scrape_channel_for_id(channel_url):
     #It's the last part of a url within a meta tag that looks like the following:
     #<meta property="og:url" content="https://www.youtube.com/channel/UCfBAKxelvdN2XDFBcofx7Dg">
     # There are a few other places it can be found on the page, but this is the easiest to parse, I think.
+    # pattern = re.compile(
+    #     r'<meta\sproperty="og:url"\scontent="https://www.youtube.com/channel/([^"]+)"',
+    #     re.VERBOSE)
+    # match = pattern.search(page.text)
+    # channel_id = match.group(1)
     soup = BeautifulSoup(page.content, 'html.parser')
     channel_id = soup.find('meta', property='og:url')['content'].split('/')[-1]
     return channel_id
@@ -123,9 +128,12 @@ def get_latest_video_data(channel_id):
 
 
 # Iterate through the channels and get the latest video info for each.
-# Push between each channel to avoid getting rate limiting.
+# Pause between each channel to avoid getting rate limiting.
 # (I don't think I'll run into issues accessing youtube's rss feeds this way, but better safe than sorry.)
-# If the scrape fails, remove that channel from the list. That way, I can ignore it later.
+# If the scrape fails, the channel dict shouldn't be handed off to the latest_video_list.
+# Note that if I weren't skipping some channels, there would be no need for this second list.
+# All the scraped info is actually in the channel_list dicts.
+latest_video_list = []
 for channel in channel_list:
     try:
         author, title, video_id, date = get_latest_video_data(channel['channel_id'])
@@ -134,9 +142,9 @@ for channel in channel_list:
         channel['video_id'] = video_id
         channel['date'] = date
         time.sleep(.1)
+        latest_video_list.append(channel)
     except:
-        print("Failed to get latest video for: ", channel['channel_url'], "Removing from list.")
-        channel_list.remove(channel)
+        print("Failed to get latest video for: ", channel['channel_url'])
 
 
 
@@ -145,7 +153,7 @@ for channel in channel_list:
 
 # First, let's just output the result to a csv file.
 with open('latest_videos.csv', 'w', newline='') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=channel_list[0].keys())
+    writer = csv.DictWriter(csvfile, fieldnames=latest_video_list[0].keys())
     writer.writeheader()
     writer.writerows(channel_list)
 
@@ -153,7 +161,7 @@ with open('latest_videos.csv', 'w', newline='') as csvfile:
 
 # Next, let's output to json format using the list of dicts:
 with open('latest_videos.json', 'w') as jsonfile:
-    json.dump(channel_list, jsonfile, indent=4)
+    json.dump(latest_video_list, jsonfile, indent=4)
 
 
 
