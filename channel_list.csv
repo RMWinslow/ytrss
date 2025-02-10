@@ -1,7 +1,4 @@
 category,channel_url,channel_id
-foo,https://www.youtube.com/@williamosman,UCfMJ2MchTSW2kWaT0kK94Yw
-foo,https://www.youtube.com/@StarTalk,UCqoAEDirJPjEUFcF2FklnBA
-bar,https://www.youtube.com/@JoePeraComedy/,UCfBAKxelvdN2XDFBcofx7Dg
 A Man Walks About Describing Things,http://www.youtube.com/@DimeStoreAdventures,UCUMQFUkgaEE68_ujIdW2wAw
 A Man Walks About Describing Things,http://www.youtube.com/@TomScottGo,UCBa659QWEk1AI4Tg--mrJ2A
 A Man Walks About Describing Things,http://www.youtube.com/@AtomicFrontier,UCbCq5Y0WPGimG2jNXhoQxGw
@@ -14,6 +11,7 @@ Math,http://www.youtube.com/@standupmaths,UCSju5G2aFaWMqn-_0YBtq5A
 Math,http://www.youtube.com/@Reducible,UCK8XIGR5kRidIw2fWqwyHRA
 Math,http://www.youtube.com/@henryseg,UC4zzTEL5tuIgGMvzjk1Ozbg
 Math,http://www.youtube.com/@upandatom,UCSIvk78tK2TiviLQn4fSHaw
+Math,,UCTl0dASnxto6j2wlVs5Bs2Q
 Media Commentary,http://www.youtube.com/@RedLetterMedia,UCrTNhL_yO3tPTdQ5XgmmWjA
 Media Commentary,http://www.youtube.com/@CaptainDisillusion,UCEOXxzW2vU0P-0THehuIIeg
 Media Commentary,http://www.youtube.com/@JennyNicholson,UC7-E5xhZBZdW-8d7V80mzfg
@@ -21,12 +19,15 @@ Media Commentary,http://www.youtube.com/@RealVirtualFrog,UCZXAVdAplsu1tFZ9OqQhJF
 Media Commentary,http://www.youtube.com/@any_austin,UCH_7doiCkWeq0v3ycWE5lDw
 Media Commentary,http://www.youtube.com/@JillBearup,UCRrvZqCL1YsqRA8IpXrhYQQ
 Media Commentary,http://www.youtube.com/@lindybeige,UC9pgQfOXRsp4UKrI8q0zjXQ
+Media Commentary,,UCto7D1L-MiRoOziCXK9uT5Q
+Media Commentary,,UClyGlKOhDUooPJFy4v_mqPg
 Food and Cookery,http://www.youtube.com/@aragusea,UC9_p50tH3WmMslWRWKnM7dQ
 Food and Cookery,http://www.youtube.com/@TastingHistory,UCsaGKqPZnGp_7N80hcHySGQ
 Food and Cookery,http://www.youtube.com/@babishculinaryuniverse,UCJHA_jMfCvEnv-3kRjTCQXw
 Food and Cookery,http://www.youtube.com/@foodwishes,UCRIZtPl9nb9RiXc9btSTQNw
 Food and Cookery,http://www.youtube.com/@OrdinarySausage,UCJLKwTg0IaSMoq6hLHT3CAA
 Food and Cookery,http://www.youtube.com/@townsends,UCxr2d4As312LulcajAkKJYw
+Making Terrible Things,https://www.youtube.com/@williamosman,UCfMJ2MchTSW2kWaT0kK94Yw
 The Fan Fandom,http://www.youtube.com/@matthiasrandomstuff2221,UC3_AWXcf2K3l9ILVuQe-XwQ
 The Fan Fandom,http://www.youtube.com/@MajorHardware,UCUXW4gT27TOaDzKFyN-1tXQ
 The Fan Fandom,http://www.youtube.com/@ThinkingandTinkering,UC4AkVj-qnJxNtKuz3rkq16A
@@ -45,3 +46,53 @@ Knick Knacks and Thingamajigs,http://www.youtube.com/@DankPods,UC7Jwj9fkrf1adN4f
 Knick Knacks and Thingamajigs,http://www.youtube.com/@Games_for_James,UCx6cailiCkg_mlMM7JX5yfA
 Knick Knacks and Thingamajigs,http://www.youtube.com/@Techmoan,UC5I2hjZYiW9gZPVkvzM8_Cw
 missingtest,http://www.youtube.com/@AllyHills,
+Misc Science Commentary,https://www.youtube.com/@StarTalk,UCqoAEDirJPjEUFcF2FklnBA
+Misc Science Commentary,,UCDW13ycIiHcl4QVN-YwVy0w
+Misc Science Commentary,,UC-9b7aDP6ZN0coj9-xFnrtw
+Misc Science Commentary,,UC7_gcs09iThXybpVgjHZ_7g
+Misc Science Commentary,,UCciQ8wFcVoIIMi-lfu8-cjQ
+Misc Science Commentary,,UCw95T_TgbGHhTml4xZ9yIqg
+Misc Science Commentary,,UCtscFf8VayggrDYjOwDke_Q
+Misc Science Commentary,,UCeiYXex_fwgYDonaTcSIk6w
+Sketch Comedy,https://www.youtube.com/@JoePeraComedy/,UCfBAKxelvdN2XDFBcofx7Dg
+Sketch Comedy,,UC9gFih9rw0zNCK3ZtoKQQyA
+Sketch Comedy,,UC_mneEC0wc29EGGmIsN_xLA
+Sketch Comedy,,UC3izYCSBcfi2LfdIr-qg0gQ
+Sketch Comedy,,UCWk68Uw6V990fjnTbcOHeoA
+Sketch Comedy,,UCq6aw03lNILzV96UvEAASfQ
+Sketch Comedy,,UC6yeqgmyqhDyMPzE4wwxQig
+Sketch Comedy,,UCakAg8hC_RFJm4RI3DlD7SA
+Sketch Comedy,,UCSE6yilNScIz1SLTNQvrXMw
+Sketch Comedy,,UCEgm-3RvRn4nCR-fGGVsfdQ
+Sketch Comedy,,UCoNRSwYHJdy-yV1b82ZdHfQ
+Animals and Biology,,UCDSzwZqgtJEnUzacq3ddoOQ
+Animals and Biology,,UCOuWeOkMrq84u5LY6apWQ8Q
+Animals and Biology,,UCzR-rom72PHN9Zg7RML9EbA
+Animals and Biology,,UCHsRtomD4twRf5WVHHk-cMw
+Animals and Biology,,UC9AUeAvdEVJfyS9rd9pvp8g
+Animals and Biology,,UCVpankR4HtoAVtYnFDUieYA
+Animals and Biology,,UC-3SbfTPJsL8fJAPKiVqBLg
+Animals and Biology,,UC1KOOWHthbQVXH2kZue3_xA
+Animals and Biology,,UC9Lp_AA5M2cMGrlvnnIns-g
+Animals and Biology,,UCMy7mRjghOxB8h3nv60SU4w
+Animals and Biology,,UC_aOteuWIY8ITg7DQQspG1g
+Animals and Biology,,UCH18915fTE6yZzKrqdea8RQ
+Animals and Biology,,UCAJfDidJyukTekgSRZrjadw
+Animals and Biology,,UCBbnbBWJtwsf0jLGUwX5Q3g
+Animals and Biology,,UCO-8Osf4S3N0m7u1NivTfeg
+Animals and Biology,,UCNo_xQ7NvTr31naPAcjQWjg
+Animals and Biology,,UCDYyCQAk60CqabvkL5gU3Mw
+Animals and Biology,,UCrJH2Wy7PmCiitXKJ21yh4w
+Animals and Biology,,UCWIxPuO_0emPbma8UlOc3JQ
+Animals and Biology,,UCpjhDz9Sqn-6h1ZwtvUiA2g
+Animals and Biology,,UCWUH_hdDfzi98i3clGbh_Ww
+Animals and Biology,,UCKwcMBhbzQXgSM1T3TvHmiA
+Animals and Biology,,UCv3mh2P-q3UCtR9-2q8B-ZA
+Animals and Biology,,UCz6yuUg6N0iRiFhCLmXrNJQ
+Animals and Biology,,UCj2Eeg01Mn5WmcXxt695fUg
+Animals and Biology,,UCsFgbVuhRrPV5FqyN7kOD8g
+Animals and Biology,,UCPPjuJTt9jiOZNHScvEmvRg
+Animals and Biology,,UCnUdaxbBMPQ9o9KVz7Oa6eQ
+Animals and Biology,,UC6q7I1DD2Jv5Ur9UEIavIrA
+Animals and Biology,,UCDjdXwT-KrFPsqOSg4KL8Nw
+Animals and Biology,,UCcNyzOCKvyMBaA4iQVgO9EQ
