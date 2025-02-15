@@ -34,5 +34,5 @@ jobs:
         git add latest_videos.csv
         git add latest_videos.json
         git add channel_list.csv
-        git commit -m 'Update YouTube Feed.html'
+        git commit -m 'Update YouTube Feed'
         git push origin main
