@@ -150,15 +150,30 @@ for channel in channel_list:
 
 
 # %% Step 3. Write to a format I can read later.
-# Strip the 'status' field from the output since every entry here is active.
-output_fields = [k for k in latest_video_list[0].keys() if k != 'status']
-output_list = [{k: v for k, v in row.items() if k != 'status'} for row in latest_video_list]
+# Build the output list with tags and backwards-compatible category field.
+# Fields from channel_list that are internal (status, topic, style, favorite) are
+# replaced with a flattened tags list and a category field (= topic, for backwards compat).
+internal_fields = {'status', 'topic', 'style', 'favorite', 'category'}
+output_list = []
+for row in latest_video_list:
+    out = {k: v for k, v in row.items() if k not in internal_fields}
+    tags = [v for k in ('topic', 'style', 'favorite') if (v := row.get(k, ''))]
+    out['tags'] = tags
+    out['category'] = row.get('topic', '')  # backwards compat, to be deprecated
+    output_list.append(out)
 
 # First, let's just output the result to a csv file.
+# (CSV gets tags as a semicolon-separated string.)
+csv_output = []
+for row in output_list:
+    csv_row = dict(row)
+    csv_row['tags'] = ';'.join(csv_row['tags'])
+    csv_output.append(csv_row)
+
 with open('latest_videos.csv', 'w', newline='',encoding='utf-8') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=output_fields)
+    writer = csv.DictWriter(csvfile, fieldnames=csv_output[0].keys())
     writer.writeheader()
-    writer.writerows(output_list)
+    writer.writerows(csv_output)
 
 
 

@@ -34,11 +34,43 @@ This procedure may need to be revised as the two files evolve.
 3. **HTML structure:** Mirror any new `<div>` containers, classes, or structural changes to video block markup. Do **not** touch Jekyll frontmatter, explanatory prose, markdown headers, or HTML comments.
 4. **Link format:** The two files currently use different link formats (test page uses `/embed/`, posts uses `/watch?v=` with `target="_blank"`). These stay independent until we deliberately unify them.
 
+## Tag system design
+
+The current single `category` column will be replaced with three structured columns
+in `channel_list.csv`:
+
+- **`topic`** — what the channel is about (e.g. `food`, `math`, `animals`). One value per channel. Maps roughly 1:1 from current categories.
+- **`style`** — how the content feels (e.g. `chaotic`, `essay`, `documentary`). One value per channel. Can be left blank if non-obvious.
+- **`favorite`** — set to `favorite` for top-tier channels, blank otherwise.
+
+These three columns are flattened into a single `tags` list in the output JSON
+(e.g. `["food", "chaotic", "favorite"]`). Blanks are simply omitted from the list.
+This gives structured, easy-to-edit source data and a simple, filter-friendly output format.
+
+During the transition, the output JSON will also include `category` set equal to `topic`,
+so the existing JavaScript viewers continue to work. Once both the test page and the
+posts repo viewer are updated to use the new tag-based filtering, `category` will be
+removed from the output.
+
+The HTML viewer will default to showing only favorites, with radio buttons to filter
+by any tag value. The display is a single flat list sorted by date — no category
+grouping headers.
+
+The allowed values for `topic` and `style` are documented in the README. A helper
+script can report rows with non-standard values for an LLM or human to review.
+
 ## TODOs
 
 - [x] Change the GitHub Actions cron schedule to ~3am Central on Saturday (I already did this ages ago. 8am UTC is either 2 or 3 am, Central Time.)
-- [ ] Add filtering and search to the HTML page (text search across titles and channels)
-- [ ] Revamp the tag/categorization system to support richer filtering
+- [ ] Revamp the tag/categorization system (see design below)
+  - [ ] Replace `category` column in channel_list.csv with `topic`, `style`, `favorite`
+  - [ ] Update `update_feed.py` to flatten these into a `tags` list in the output JSON, and set `category = topic` for backwards compatibility
+  - [ ] Migrate existing channels: map current categories to topics, assign styles and favorites
+  - [ ] Build new radio-button-based viewer (default to favorites, filter by any tag, flat list sorted by date)
+  - [ ] Deploy new viewer to test page, verify, then push to posts repo
+  - [ ] Remove backwards-compat `category` field from output JSON once both viewers are updated
+- [ ] Add text search to the HTML page (across titles and channels)
+- [ ] Create a tag vocabulary validation script that reports non-standard values
 - [ ] Create an import pipeline: an `imports/` folder where YouTube or NewPipe subscription export CSVs can be dropped, with a script that migrates them into `channel_list.csv`
 - [ ] Add retry logic for failed RSS fetches instead of silently skipping
 - [ ] Extract video duration from the RSS feed's `media:group` and display it
