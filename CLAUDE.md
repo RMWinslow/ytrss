@@ -36,13 +36,14 @@ This procedure may need to be revised as the two files evolve.
 
 ## TODOs
 
-- [ ] Change the GitHub Actions cron schedule from 8am UTC Saturday to 3am UTC Saturday
+- [x] Change the GitHub Actions cron schedule to ~3am Central on Saturday (I already did this ages ago. 8am UTC is either 2 or 3 am, Central Time.)
 - [ ] Add filtering and search to the HTML page (text search across titles and channels)
 - [ ] Revamp the tag/categorization system to support richer filtering
 - [ ] Create an import pipeline: an `imports/` folder where YouTube or NewPipe subscription export CSVs can be dropped, with a script that migrates them into `channel_list.csv`
 - [ ] Add retry logic for failed RSS fetches instead of silently skipping
 - [ ] Extract video duration from the RSS feed's `media:group` and display it
 - [ ] Extract short description snippets from the RSS feed
+- [ ] Shorts filtering: investigate whether the YouTube RSS feed marks Shorts explicitly, or whether we'd need to filter by duration. If duration-only, consider whether to blacklist all videos under ~60s globally or have a per-channel flag for channels that mix Shorts with regular uploads. The feed currently shows only the latest video per channel, so a Short could mask a real upload.
 - [ ] Generate an RSS/Atom feed from the aggregated data so users can subscribe in any reader
 - [ ] Add dark mode / theme toggle to the HTML page (CSS variables are already in place)
 - [ ] Improve error reporting: log which channels failed and why

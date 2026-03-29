@@ -9,8 +9,9 @@ but this only needs to run when new channels are added.
 The purpose of this is to save time when adding channels.
 The channel url is plainly visible; the channel id takes some inspection.
 
-2. For every channel in the list, this script gets the rss feed and reads the information for the latest video.
+2. For every active channel in the list, this script gets the rss feed and reads the information for the latest video.
 (I only want the latest video from each channel.)
+Only channels with status 'active' are fetched. All other status values are skipped.
 
 3. The info tuples for these videos is written into a format I can read later.
 (I don't sort them. Order matches order from input channel_list.csv.)
@@ -28,8 +29,6 @@ import re
 
 
 # Read the channel list from channel_list.csv into a list of dictionaries.
-# Each dictionary will have the following keys:
-# 'category','channel_url', 'rss_url' ,
 with open('channel_list.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     channel_list = list(reader)
@@ -82,8 +81,10 @@ def scrape_channel_for_vanity_url(channel_id):
 
 
 
-# Iterate through the channels and scrape for the channel_id if it's missing ('' or None)
+# Iterate through the active channels and scrape for the channel_id if it's missing ('' or None)
 for channel in channel_list:
+    if channel['status'] != 'active':
+        continue
     if channel['channel_id'] in ('', None):
         try:
             channel['channel_id'] = scrape_channel_for_id(channel['channel_url'])
@@ -127,14 +128,13 @@ def get_latest_video_data(channel_id):
     return (author, title, video_id, date)
 
 
-# Iterate through the channels and get the latest video info for each.
-# Pause between each channel to avoid getting rate limiting.
-# (I don't think I'll run into issues accessing youtube's rss feeds this way, but better safe than sorry.)
-# If the scrape fails, the channel dict shouldn't be handed off to the latest_video_list.
-# Note that if I weren't skipping some channels, there would be no need for this second list.
-# All the scraped info is actually in the channel_list dicts.
+# Iterate through the active channels and get the latest video info for each.
+# Pause between each channel to avoid rate limiting.
+# If the scrape fails, the channel is skipped from the output.
 latest_video_list = []
 for channel in channel_list:
+    if channel['status'] != 'active':
+        continue
     try:
         author, title, video_id, date = get_latest_video_data(channel['channel_id'])
         channel['author'] = author
@@ -150,18 +150,21 @@ for channel in channel_list:
 
 
 # %% Step 3. Write to a format I can read later.
+# Strip the 'status' field from the output since every entry here is active.
+output_fields = [k for k in latest_video_list[0].keys() if k != 'status']
+output_list = [{k: v for k, v in row.items() if k != 'status'} for row in latest_video_list]
 
 # First, let's just output the result to a csv file.
 with open('latest_videos.csv', 'w', newline='',encoding='utf-8') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=latest_video_list[0].keys())
+    writer = csv.DictWriter(csvfile, fieldnames=output_fields)
     writer.writeheader()
-    writer.writerows(latest_video_list)
+    writer.writerows(output_list)
 
 
 
 # Next, let's output to json format using the list of dicts:
 with open('latest_videos.json', 'w',encoding='utf-8') as jsonfile:
-    json.dump(latest_video_list, jsonfile, indent=4)
+    json.dump(output_list, jsonfile, indent=4)
 
 
 
