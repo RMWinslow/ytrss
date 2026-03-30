@@ -52,7 +52,11 @@
 <body>
 
 
-<fieldset id="tag_filters"></fieldset>
+<div id="tag_filters">
+  <fieldset id="tag_highlight"></fieldset>
+  <fieldset id="tag_topic"></fieldset>
+  <fieldset id="tag_style"></fieldset>
+</div>
 
 <div id="feed_combined"></div>
   
@@ -78,15 +82,20 @@ function process_channels(channels) {
     document.getElementById('feed_combined').appendChild(create_video_block(channel));
   });
   
-  // Collect all unique tags and build radio buttons.
-  tags = [...new Set(channels.flatMap(c => c.tags || []))].sort(); //list of set of lists
-  tags.unshift('all'); // Add 'all' as the first tag
-  tags.forEach(tag => {
-    document.getElementById('tag_filters').appendChild(create_tag_selector(tag));
+  // Build grouped radio buttons: highlights, topics, styles.
+  // All share name="tag_radio" so selecting one deselects all others across groups.
+  ['all', 'favorite'].forEach(tag => {
+    document.getElementById('tag_highlight').appendChild(create_tag_selector(tag));
+  });
+  [...new Set(channels.map(c => c.topic).filter(Boolean))].sort().forEach(tag => {
+    document.getElementById('tag_topic').appendChild(create_tag_selector(tag));
+  });
+  [...new Set(channels.map(c => c.style).filter(Boolean))].sort().forEach(tag => {
+    document.getElementById('tag_style').appendChild(create_tag_selector(tag));
   });
 
   // Filter to showing favorites by default.
-  document.getElementById('tag_filters').querySelector('input[value="favorite"]').checked = true;
+  document.getElementById('tag_highlight').querySelector('input[value="favorite"]').checked = true;
   filter_by_tag('favorite');
 }
 

@@ -150,13 +150,12 @@ for channel in channel_list:
 
 
 # %% Step 3. Write to a format I can read later.
-# Build the output list with tags and backwards-compatible category field.
-# Fields from channel_list that are internal (status, topic, style, favorite) are
-# replaced with a flattened tags list and a category field (= topic, for backwards compat).
-internal_fields = {'status', 'topic', 'style', 'favorite', 'category'}
+# Build the output list. The structured columns (topic, style, favorite) pass through
+# to the output alongside a flattened tags list and a backwards-compatible category field.
+# Only 'status' is excluded (internal bookkeeping, not useful to viewers).
 output_list = []
 for row in latest_video_list:
-    out = {k: v for k, v in row.items() if k not in internal_fields}
+    out = {k: v for k, v in row.items() if k != 'status'}
     tags = [v for k in ('topic', 'style', 'favorite') if (v := row.get(k, ''))]
     out['tags'] = tags
     out['category'] = row.get('topic', '')  # backwards compat, to be deprecated
