@@ -69,7 +69,20 @@ but it is primarily a human-maintained artifact.
   skipped. Use the value as a free-text note for why the channel is inactive.
 
 `category`
-: The display category used to group videos in the HTML viewer.
+: Deprecated. Currently set equal to `topic` in the output for backwards
+  compatibility with the existing HTML viewer. Will be removed once the
+  new tag-based viewer is deployed.
+
+`topic`
+: What the channel is about. One value from the topic vocabulary below.
+  Can be left blank if no topic fits cleanly.
+
+`style`
+: How the content is presented. One value from the style vocabulary below.
+  Can be left blank.
+
+`favorite`
+: Set to `favorite` for top-tier channels. Left blank otherwise.
 
 `channel_url`
 : The channel's vanity URL (e.g. `http://www.youtube.com/@SomeChannel`).
@@ -80,6 +93,37 @@ but it is primarily a human-maintained artifact.
 : The YouTube channel ID (e.g. `UCxyz...`). Can be left blank if `channel_url`
   is provided; the script will attempt to scrape for it.
 
+### Tag vocabulary
+
+These are the allowed values for `topic` and `style`. A validation script can
+report rows with non-standard values for review.
+
+**Topics:**
+
+- `math`
+- `physical science`
+- `animals and biology`
+- `food`
+- `media / pop culture`
+- `fans`
+- `tech`
+- `making things`
+- `toys and games`
+- `comedy`
+- `original animation`
+- `history / geography`
+- `social science`
+
+**Styles:**
+
+- `walkabout` — presenter out in the world, exploring places or things in person
+- `talking head` — presenter directly addressing the camera, with cutaways, graphics, or interviews
+- `show and tell` — centered on showing a specific object and talking about it
+- `chaotic` — wacky, destructive, or comedic experimentation
+- `slice of life` — passive observation, no particular thesis or message
+- `musical` — music performance or music-driven content
+- `review` — evaluating pros and cons to help the viewer decide on something
+
 ### latest_videos.csv / .json (generated, do not edit)
 
 These are generated artifacts produced by `update_feed.py`. They contain one
@@ -88,13 +132,14 @@ by the HTML viewer at runtime.
 
 | Column | Description |
 |--------|-------------|
-| `category` | Copied from `channel_list.csv`. |
 | `channel_url` | Copied from `channel_list.csv`. |
 | `channel_id` | Copied from `channel_list.csv`. |
 | `author` | Channel name as reported by the RSS feed. |
 | `title` | Title of the latest video. |
 | `video_id` | YouTube video ID. |
 | `date` | Publish date in ISO 8601 format. |
+| `tags` | List of tags flattened from `topic`, `style`, and `favorite`. Array in JSON, semicolon-separated in CSV. |
+| `category` | Equal to `topic`. Backwards compatibility, to be deprecated. |
 
 ### Scripts
 

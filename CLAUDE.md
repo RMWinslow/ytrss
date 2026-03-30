@@ -63,9 +63,9 @@ script can report rows with non-standard values for an LLM or human to review.
 
 - [x] Change the GitHub Actions cron schedule to ~3am Central on Saturday (I already did this ages ago. 8am UTC is either 2 or 3 am, Central Time.)
 - [ ] Revamp the tag/categorization system (see design below)
-  - [ ] Replace `category` column in channel_list.csv with `topic`, `style`, `favorite`
-  - [ ] Update `update_feed.py` to flatten these into a `tags` list in the output JSON, and set `category = topic` for backwards compatibility
-  - [ ] Migrate existing channels: map current categories to topics, assign styles and favorites
+  - [x] Replace `category` column in channel_list.csv with `topic`, `style`, `favorite`
+  - [x] Update `update_feed.py` to flatten these into a `tags` list in the output JSON, and set `category = topic` for backwards compatibility
+  - [x] Migrate existing channels: map current categories to topics, assign styles and favorites
   - [ ] Build new radio-button-based viewer (default to favorites, filter by any tag, flat list sorted by date)
   - [ ] Deploy new viewer to test page, verify, then push to posts repo
   - [ ] Remove backwards-compat `category` field from output JSON once both viewers are updated
@@ -77,6 +77,7 @@ script can report rows with non-standard values for an LLM or human to review.
 - [ ] Extract short description snippets from the RSS feed
 - [ ] Shorts filtering: investigate whether the YouTube RSS feed marks Shorts explicitly, or whether we'd need to filter by duration. If duration-only, consider whether to blacklist all videos under ~60s globally or have a per-channel flag for channels that mix Shorts with regular uploads. The feed currently shows only the latest video per channel, so a Short could mask a real upload.
 - [ ] Generate an RSS/Atom feed from the aggregated data so users can subscribe in any reader
+- [ ] Add `loading="lazy"` to thumbnail images in the HTML viewer to avoid loading all thumbnails at once
 - [ ] Add dark mode / theme toggle to the HTML page (CSS variables are already in place)
 - [ ] Improve error reporting: log which channels failed and why
 - [ ] Expand README with the RoyalRoad inspiration, how to add channels, and how automation works
