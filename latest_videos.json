@@ -1,1712 +1,2371 @@
 [
     {
-        "category": "A Man Walks About Describing Things",
         "channel_url": "http://www.youtube.com/@DimeStoreAdventures",
         "channel_id": "UCUMQFUkgaEE68_ujIdW2wAw",
         "author": "Dime Store Adventures",
         "title": "The Incredible Mystery Behind The \"House Number Font\"",
         "video_id": "6HgD3v1ASP4",
-        "date": "2026-03-14T16:38:10+00:00"
+        "date": "2026-03-14T16:38:10+00:00",
+        "tags": [
+            "history / geography",
+            "walkabout",
+            "favorite"
+        ],
+        "category": "history / geography"
     },
     {
-        "category": "A Man Walks About Describing Things",
         "channel_url": "http://www.youtube.com/@TomScottGo",
         "channel_id": "UCBa659QWEk1AI4Tg--mrJ2A",
         "author": "Tom Scott",
-        "title": "I left YouTube two years ago. Time to come back.",
-        "video_id": "Yz3lSKgz4q8",
-        "date": "2026-03-23T16:00:49+00:00"
+        "title": "I helped break a 142-year-old bell, and that's okay.",
+        "video_id": "GpaNijzRaJI",
+        "date": "2026-03-30T15:00:30+00:00",
+        "tags": [
+            "walkabout"
+        ],
+        "category": ""
     },
     {
-        "category": "A Man Walks About Describing Things",
         "channel_url": "http://www.youtube.com/@AtomicFrontier",
         "channel_id": "UCbCq5Y0WPGimG2jNXhoQxGw",
         "author": "Atomic Frontier",
         "title": "The Space Propulsion Tier List",
         "video_id": "KnLUxrLPSMk",
-        "date": "2026-01-25T21:03:04+00:00"
+        "date": "2026-01-25T21:03:04+00:00",
+        "tags": [
+            "physical science",
+            "walkabout"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "A Man Walks About Describing Things",
         "channel_url": "http://www.youtube.com/@JayForeman",
         "channel_id": "UCbbQalJ4OaC0oQ0AqRaOJ9g",
         "author": "Jay and Mark",
         "title": "The world's most annoying road",
         "video_id": "knCojy_3bmk",
-        "date": "2026-03-20T15:49:54+00:00"
+        "date": "2026-03-20T15:49:54+00:00",
+        "tags": [
+            "history / geography",
+            "walkabout",
+            "favorite"
+        ],
+        "category": "history / geography"
     },
     {
-        "category": "A Man Walks About Describing Things",
         "channel_url": "http://www.youtube.com/@TheTimTraveller",
         "channel_id": "UC2LVhJH_9cT2XKp0VAfsKOQ",
         "author": "The Tim Traveller",
         "title": "They Built A University In A Disused Steelworks, And It's Every Bit As Metal As That Sounds",
         "video_id": "kgLTibessRQ",
-        "date": "2026-03-25T18:30:37+00:00"
+        "date": "2026-03-25T18:30:37+00:00",
+        "tags": [
+            "history / geography",
+            "walkabout",
+            "favorite"
+        ],
+        "category": "history / geography"
     },
     {
-        "category": "A Man Walks About Describing Things",
         "channel_url": "http://www.youtube.com/@RobWords",
         "channel_id": "UC4a9LfdavRlVMaSSWFdIciA",
         "author": "RobWords",
         "title": "Hanged by a comma",
         "video_id": "VHNXMFtSaZ8",
-        "date": "2026-03-28T14:00:00+00:00"
+        "date": "2026-03-28T14:00:00+00:00",
+        "tags": [
+            "history / geography",
+            "walkabout",
+            "favorite"
+        ],
+        "category": "history / geography"
     },
     {
-        "category": "Math",
         "channel_url": "http://www.youtube.com/@3blue1brown",
         "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
         "author": "3Blue1Brown",
         "title": "Escher's most mind-bending piece",
         "video_id": "Y7ImxZ_YhJk",
-        "date": "2026-03-27T20:56:02+00:00"
+        "date": "2026-03-27T20:56:02+00:00",
+        "tags": [
+            "math",
+            "favorite"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "http://www.youtube.com/@numberphile",
         "channel_id": "UCoxcjq-8xIDTYp3uz647V5A",
         "author": "Numberphile",
         "title": "The Weather Equation - Numberphile",
         "video_id": "YmZiq00CO60",
-        "date": "2026-03-18T16:01:49+00:00"
+        "date": "2026-03-18T16:01:49+00:00",
+        "tags": [
+            "math",
+            "talking head"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "http://www.youtube.com/@standupmaths",
         "channel_id": "UCSju5G2aFaWMqn-_0YBtq5A",
         "author": "Stand-up Maths",
         "title": "Calculating pi from coin flips (without randomness)",
         "video_id": "kahGSss6SsU",
-        "date": "2026-03-14T10:01:04+00:00"
+        "date": "2026-03-14T10:01:04+00:00",
+        "tags": [
+            "math",
+            "talking head"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "http://www.youtube.com/@Reducible",
         "channel_id": "UCK8XIGR5kRidIw2fWqwyHRA",
         "author": "Reducible",
         "title": "A* Search: How Your Map Applications Find Shortest Routes",
         "video_id": "88I6IidylGc",
-        "date": "2024-07-27T01:04:19+00:00"
+        "date": "2024-07-27T01:04:19+00:00",
+        "tags": [
+            "math"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "http://www.youtube.com/@henryseg",
         "channel_id": "UC4zzTEL5tuIgGMvzjk1Ozbg",
         "author": "Henry Segerman",
         "title": "Expanding in three dimensions",
         "video_id": "NEJZlGuWGV8",
-        "date": "2025-12-30T15:33:54+00:00"
+        "date": "2025-12-30T15:33:54+00:00",
+        "tags": [
+            "math",
+            "show and tell"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "http://www.youtube.com/@upandatom",
         "channel_id": "UCSIvk78tK2TiviLQn4fSHaw",
         "author": "Up and Atom",
         "title": "These 17 Paradoxes Will Change How You See the Universe",
         "video_id": "yrJA0J7jciY",
-        "date": "2025-06-19T02:13:34+00:00"
+        "date": "2025-06-19T02:13:34+00:00",
+        "tags": [
+            "math",
+            "talking head"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "http://www.youtube.com/@GeorgeHart-math",
         "channel_id": "UCTl0dASnxto6j2wlVs5Bs2Q",
         "author": "George Hart",
         "title": "Quadratic Whisper",
         "video_id": "tVwVJ6zW6jk",
-        "date": "2026-01-19T22:55:25+00:00"
+        "date": "2026-01-19T22:55:25+00:00",
+        "tags": [
+            "math",
+            "show and tell"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "https://www.youtube.com/@tibees",
         "channel_id": "UC52kszkc08-acFOuogFl5jw",
         "author": "Tibees",
-        "title": "Fibonacci slop is out of control",
-        "video_id": "LWJzirlCv8I",
-        "date": "2026-03-18T09:35:38+00:00"
+        "title": "Can you pass a medieval math exam?",
+        "video_id": "3dvdETdTo5I",
+        "date": "2026-03-30T11:33:45+00:00",
+        "tags": [
+            "math",
+            "talking head"
+        ],
+        "category": "math"
     },
     {
-        "category": "Math",
         "channel_url": "https://www.youtube.com/@chalktalkmath/",
         "channel_id": "UCUv35okF8MSo2dFQx5LrNmA",
         "author": "Chalk Talk",
         "title": "The fairness puzzle that sparked probability",
         "video_id": "_YRfSe-f1FE",
-        "date": "2025-09-02T17:26:31+00:00"
+        "date": "2025-09-02T17:26:31+00:00",
+        "tags": [
+            "math"
+        ],
+        "category": "math"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@RedLetterMedia",
         "channel_id": "UCrTNhL_yO3tPTdQ5XgmmWjA",
         "author": "RedLetterMedia",
         "title": "What Are These Movies?!? / Whistle (2025) Movie Review",
         "video_id": "S8A1H5AwzyQ",
-        "date": "2026-03-21T15:00:49+00:00"
+        "date": "2026-03-21T15:00:49+00:00",
+        "tags": [
+            "media / pop culture",
+            "review"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@CaptainDisillusion",
         "channel_id": "UCEOXxzW2vU0P-0THehuIIeg",
         "author": "Captain Disillusion",
         "title": "Find me at OpenSauce... before Captain Disillusion does!",
         "video_id": "grn3X4IMx54",
-        "date": "2025-07-09T17:23:48+00:00"
+        "date": "2025-07-09T17:23:48+00:00",
+        "tags": [
+            "media / pop culture"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@JennyNicholson",
         "channel_id": "UC7-E5xhZBZdW-8d7V80mzfg",
         "author": "Jenny Nicholson",
         "title": "My Favorite Twilight Knockoff",
         "video_id": "-Gq1P2aaDqM",
-        "date": "2026-03-21T19:27:41+00:00"
+        "date": "2026-03-21T19:27:41+00:00",
+        "tags": [
+            "media / pop culture",
+            "talking head"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@RealVirtualFrog",
         "channel_id": "UCZXAVdAplsu1tFZ9OqQhJFg",
         "author": "Virtual Frog",
         "title": "Robot Monster (1953) Review - The Worst Movie Ever Made?",
         "video_id": "K8qE-8_Gs7U",
-        "date": "2025-02-24T17:32:52+00:00"
+        "date": "2025-02-24T17:32:52+00:00",
+        "tags": [
+            "media / pop culture",
+            "talking head",
+            "favorite"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@any_austin",
         "channel_id": "UCH_7doiCkWeq0v3ycWE5lDw",
         "author": "Any Austin",
         "title": "Do the Rivers in 'Where Winds Meet' Flow Anywhere?",
         "video_id": "SyTQwGDrZys",
-        "date": "2026-03-25T14:50:33+00:00"
+        "date": "2026-03-25T14:50:33+00:00",
+        "tags": [
+            "media / pop culture",
+            "talking head"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@JillBearup",
         "channel_id": "UCRrvZqCL1YsqRA8IpXrhYQQ",
         "author": "Jill Bearup",
         "title": "For All Intensive Purposes, We Must Change Tact",
         "video_id": "BYaF6jb_K8c",
-        "date": "2026-03-23T12:39:34+00:00"
+        "date": "2026-03-23T12:39:34+00:00",
+        "tags": [
+            "media / pop culture",
+            "talking head"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@lindybeige",
         "channel_id": "UC9pgQfOXRsp4UKrI8q0zjXQ",
         "author": "Lindybeige",
-        "title": "Bad tour guides",
-        "video_id": "U8StqYNMN28",
-        "date": "2026-02-28T10:00:45+00:00"
+        "title": "Medieval Lviv - a quick tour without all that tedious looking at things",
+        "video_id": "wEVItrolwcs",
+        "date": "2026-03-30T15:32:31+00:00",
+        "tags": [
+            "history / geography",
+            "talking head"
+        ],
+        "category": "history / geography"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@LetsGameItOut",
         "channel_id": "UCto7D1L-MiRoOziCXK9uT5Q",
         "author": "Let's Game It Out",
         "title": "I Beat This Entire Factory Game With Basically No Factory - StarRupture",
         "video_id": "802J6OnLBgc",
-        "date": "2026-03-15T14:59:25+00:00"
+        "date": "2026-03-15T14:59:25+00:00",
+        "tags": [
+            "media / pop culture",
+            "chaotic"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@DougDoug",
         "channel_id": "UClyGlKOhDUooPJFy4v_mqPg",
         "author": "DougDoug",
         "title": "Thanks for 7 years of DougDoug",
         "video_id": "2Fo4UejU6oE",
-        "date": "2025-12-19T20:03:00+00:00"
+        "date": "2025-12-19T20:03:00+00:00",
+        "tags": [
+            "media / pop culture",
+            "talking head"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@Danny-Gonzalez",
         "channel_id": "UCSUf5_EPEfl4zlBKZHkZdmw",
         "author": "Danny Gonzalez",
         "title": "Foods That Should Not Exist",
         "video_id": "85ze_dQQPVI",
-        "date": "2026-03-27T19:59:14+00:00"
+        "date": "2026-03-27T19:59:14+00:00",
+        "tags": [
+            "media / pop culture",
+            "talking head"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Media Commentary",
         "channel_url": "http://www.youtube.com/@drewisgooden",
         "channel_id": "UCTSRIY3GLFYIpkR2QwyeklA",
         "author": "Drew Gooden",
         "title": "ESPN & the Death of Journalism",
         "video_id": "TFGzXNILrV4",
-        "date": "2026-03-03T20:10:55+00:00"
+        "date": "2026-03-03T20:10:55+00:00",
+        "tags": [
+            "media / pop culture",
+            "talking head"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Food and Cookery",
         "channel_url": "http://www.youtube.com/@aragusea",
         "channel_id": "UC9_p50tH3WmMslWRWKnM7dQ",
         "author": "Adam Ragusea",
-        "title": "The three browning reactions in food",
-        "video_id": "n6Y-loVp6mQ",
-        "date": "2026-03-19T18:47:01+00:00"
+        "title": "A point about the Cybertruck (seriously)",
+        "video_id": "NEcZSM6xS80",
+        "date": "2026-03-30T18:00:00+00:00",
+        "tags": [
+            "food",
+            "talking head"
+        ],
+        "category": "food"
     },
     {
-        "category": "Food and Cookery",
         "channel_url": "http://www.youtube.com/@TastingHistory",
         "channel_id": "UCsaGKqPZnGp_7N80hcHySGQ",
         "author": "Tasting History with Max Miller",
         "title": "The Spiced Meat of a Medieval Butcher",
         "video_id": "9r7L8vznCoE",
-        "date": "2026-03-29T14:00:00+00:00"
+        "date": "2026-03-29T14:00:00+00:00",
+        "tags": [
+            "food",
+            "talking head"
+        ],
+        "category": "food"
     },
     {
-        "category": "Food and Cookery",
         "channel_url": "http://www.youtube.com/@babishculinaryuniverse",
         "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
         "author": "Binging with Babish",
-        "title": "10 Levels of Chicken Noodle Soup | With Babish",
-        "video_id": "EM_ptn24MUs",
-        "date": "2026-03-28T12:45:04+00:00"
+        "title": "This potato salad took 3 days to make...",
+        "video_id": "lhVpIkWinD0",
+        "date": "2026-03-30T19:00:29+00:00",
+        "tags": [
+            "food"
+        ],
+        "category": "food"
     },
     {
-        "category": "Food and Cookery",
         "channel_url": "http://www.youtube.com/@foodwishes",
         "channel_id": "UCRIZtPl9nb9RiXc9btSTQNw",
         "author": "Food Wishes",
         "title": "One-Pan Dirty Spaghetti | Food Wishes",
         "video_id": "sezJyA1POkY",
-        "date": "2026-03-25T17:35:32+00:00"
+        "date": "2026-03-25T17:35:32+00:00",
+        "tags": [
+            "food"
+        ],
+        "category": "food"
     },
     {
-        "category": "Food and Cookery",
         "channel_url": "http://www.youtube.com/@OrdinarySausage",
         "channel_id": "UCJLKwTg0IaSMoq6hLHT3CAA",
         "author": "Ordinary Sausage",
         "title": "Sous Vide Spam",
         "video_id": "XCOyUtERF6Q",
-        "date": "2026-03-29T17:15:02+00:00"
+        "date": "2026-03-29T17:15:02+00:00",
+        "tags": [
+            "food",
+            "chaotic"
+        ],
+        "category": "food"
     },
     {
-        "category": "Food and Cookery",
         "channel_url": "http://www.youtube.com/@townsends",
         "channel_id": "UCxr2d4As312LulcajAkKJYw",
         "author": "Townsends",
         "title": "Noodle Pudding? - Food That Time Forgot",
         "video_id": "O54fF7BUedI",
-        "date": "2026-03-29T13:00:33+00:00"
+        "date": "2026-03-29T13:00:33+00:00",
+        "tags": [
+            "food"
+        ],
+        "category": "food"
     },
     {
-        "category": "The Fan Fandom",
         "channel_url": "http://www.youtube.com/@matthiasrandomstuff2221",
         "channel_id": "UC3_AWXcf2K3l9ILVuQe-XwQ",
         "author": "Matthias random stuff",
         "title": "Toothpaste transfer coupling -- the invention you didn't know you needed!",
         "video_id": "o6pKyVUAWKg",
-        "date": "2026-03-25T13:25:16+00:00"
+        "date": "2026-03-25T13:25:16+00:00",
+        "tags": [
+            "fans"
+        ],
+        "category": "fans"
     },
     {
-        "category": "The Fan Fandom",
         "channel_url": "http://www.youtube.com/@MajorHardware",
         "channel_id": "UCUXW4gT27TOaDzKFyN-1tXQ",
         "author": "Major Hardware",
         "title": "The Destroyer of CPU's",
         "video_id": "VdjrIcDZWDw",
-        "date": "2026-03-15T19:57:18+00:00"
+        "date": "2026-03-15T19:57:18+00:00",
+        "tags": [
+            "fans"
+        ],
+        "category": "fans"
     },
     {
-        "category": "The Fan Fandom",
         "channel_url": "http://www.youtube.com/@ThinkingandTinkering",
         "channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
         "author": "Robert Murray-Smith",
         "title": "RIP Robert Murray-Smith (1963 - 2025)",
         "video_id": "GhramXiUrY4",
-        "date": "2025-10-07T20:10:01+00:00"
+        "date": "2025-10-07T20:10:01+00:00",
+        "tags": [
+            "fans"
+        ],
+        "category": "fans"
     },
     {
-        "category": "The Fan Fandom",
         "channel_url": "http://www.youtube.com/@TnTOmnibus",
         "channel_id": "UC1E8OmOG17VckoPviOPmkMw",
         "author": "TNT Omnibus",
         "title": "Impossible Gears",
         "video_id": "8VzwWZ6qZu4",
-        "date": "2025-09-11T13:15:59+00:00"
+        "date": "2025-09-11T13:15:59+00:00",
+        "tags": [
+            "fans"
+        ],
+        "category": "fans"
     },
     {
-        "category": "The Fan Fandom",
         "channel_url": "http://www.youtube.com/@bigclivedotcom",
         "channel_id": "UCtM5z2gkrGRuWd0JQMx76qA",
         "author": "bigclivedotcom",
         "title": "AliExpress unbag joy - Fakita work light, tools, relays, ballasts",
         "video_id": "uiKhObmo-D4",
-        "date": "2026-03-29T17:30:10+00:00"
+        "date": "2026-03-29T17:30:10+00:00",
+        "tags": [
+            "fans",
+            "show and tell"
+        ],
+        "category": "fans"
     },
     {
-        "category": "The Fan Fandom",
         "channel_url": "http://www.youtube.com/@PlasmaChannel",
         "channel_id": "UCg45A-ph7Eu8jQgfrwDkHLg",
         "author": "Plasma Channel",
         "title": "Building The First Prototype Plasma Sword (30,000 Volts)",
         "video_id": "xGXedwLsDP8",
-        "date": "2026-03-13T20:01:00+00:00"
+        "date": "2026-03-13T20:01:00+00:00",
+        "tags": [
+            "fans"
+        ],
+        "category": "fans"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@ObjectivityVideos",
         "channel_id": "UCtwKon9qMt5YLVgQt1tvJKg",
         "author": "Objectivity",
         "title": "The Bone Cave - Objectivity 305",
         "video_id": "jFV1I45PU7c",
-        "date": "2026-03-01T14:44:14+00:00"
+        "date": "2026-03-01T14:44:14+00:00",
+        "tags": [
+            "history / geography",
+            "show and tell"
+        ],
+        "category": "history / geography"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@ashens",
         "channel_id": "UCxt9Pvye-9x_AIcb1UtmF1Q",
         "author": "ashens",
         "title": "Mega Drive / Genesis Playset Things | Ashens",
         "video_id": "cemeomkz1Xw",
-        "date": "2026-03-01T23:31:03+00:00"
+        "date": "2026-03-01T23:31:03+00:00",
+        "tags": [
+            "media / pop culture",
+            "show and tell"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@grandillusions",
         "channel_id": "UCnmgSO_4g6QcRzy0yFeglyA",
         "author": "Grand Illusions",
         "title": "Tim Cleans Up His Act",
         "video_id": "07HjKLSSV6U",
-        "date": "2026-03-27T12:00:01+00:00"
+        "date": "2026-03-27T12:00:01+00:00",
+        "tags": [
+            "toys and games",
+            "show and tell"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@JJMcCullough",
         "channel_id": "UCyhOl6uRlxryALlT5yifldw",
         "author": "J.J. McCullough",
         "title": "What makes KOREA so unique?",
         "video_id": "b1fKG1t3gDs",
-        "date": "2026-03-24T20:27:54+00:00"
+        "date": "2026-03-24T20:27:54+00:00",
+        "tags": [
+            "social science",
+            "talking head"
+        ],
+        "category": "social science"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@PosyMusic",
         "channel_id": "UCmEmX_jw_pRp5UbAdzkZq-g",
         "author": "Posy",
         "title": "Small Crowd Cheering.wav",
         "video_id": "TGYRQXOBcLc",
-        "date": "2026-02-28T10:06:04+00:00"
+        "date": "2026-02-28T10:06:04+00:00",
+        "tags": [
+            "tech",
+            "favorite"
+        ],
+        "category": "tech"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@lazyposy",
         "channel_id": "UCfZwJg0C0P-xX7BicmwVKqw",
         "author": "Lazy Posy",
         "title": "Happy Ranting!",
         "video_id": "hJ-HbQseM_c",
-        "date": "2026-01-24T10:01:05+00:00"
+        "date": "2026-01-24T10:01:05+00:00",
+        "tags": [
+            "tech"
+        ],
+        "category": "tech"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@mitxela",
         "channel_id": "UCeEf90AEmmxaQs5BUkHqR3Q",
         "author": "mitxela",
         "title": "Simple Screw Counter",
         "video_id": "MkfHD2ShE5s",
-        "date": "2026-02-28T14:16:56+00:00"
+        "date": "2026-02-28T14:16:56+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@ObjectHistory",
         "channel_id": "UC7hlBf8aKs1OFNWEdWsveFA",
         "author": "Object History",
         "title": "Forgotten Magical Item: The Sandman's Umbrella(s) #folklore #magic",
         "video_id": "bon59GqRcoQ",
-        "date": "2026-03-25T23:04:06+00:00"
+        "date": "2026-03-25T23:04:06+00:00",
+        "tags": [
+            "history / geography",
+            "show and tell"
+        ],
+        "category": "history / geography"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@DankPods",
         "channel_id": "UC7Jwj9fkrf1adN4fMmTkpug",
         "author": "DankPods",
         "title": "The Omnisphere MP3 Music System.",
         "video_id": "6yc7B15Q5Es",
-        "date": "2026-03-27T15:09:20+00:00"
+        "date": "2026-03-27T15:09:20+00:00",
+        "tags": [
+            "tech",
+            "show and tell"
+        ],
+        "category": "tech"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@Games_for_James",
         "channel_id": "UCx6cailiCkg_mlMM7JX5yfA",
         "author": "James Channel",
         "title": "We Have Playstation Portal at Home",
         "video_id": "Rn-E6Wkgj3w",
-        "date": "2026-03-27T18:30:33+00:00"
+        "date": "2026-03-27T18:30:33+00:00",
+        "tags": [
+            "tech",
+            "show and tell"
+        ],
+        "category": "tech"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@Techmoan",
         "channel_id": "UC5I2hjZYiW9gZPVkvzM8_Cw",
         "author": "Techmoan",
         "title": "2-in-1 REVIEW: Maxell MXCP-P100 & Snowsky Echo Mini",
         "video_id": "6XyaBls8jyg",
-        "date": "2026-03-28T10:01:16+00:00"
+        "date": "2026-03-28T10:01:16+00:00",
+        "tags": [
+            "tech",
+            "show and tell"
+        ],
+        "category": "tech"
     },
     {
-        "category": "Knick Knacks and Thingamajigs",
         "channel_url": "http://www.youtube.com/@TechnologyConnections",
         "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
         "author": "Technology Connections",
         "title": "Oil pressure is the only thing keeping an engine alive",
         "video_id": "mmCfOazZCNQ",
-        "date": "2026-03-21T15:39:02+00:00"
+        "date": "2026-03-21T15:39:02+00:00",
+        "tags": [
+            "tech",
+            "talking head"
+        ],
+        "category": "tech"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "https://www.youtube.com/@StarTalk",
         "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
         "author": "StarTalk",
         "title": "The StarTalk Team Has More Questions for Neil | Burning Question Pt. 4",
         "video_id": "DSu6xLc6WGQ",
-        "date": "2026-03-28T14:44:29+00:00"
+        "date": "2026-03-28T14:44:29+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@astropro1",
         "channel_id": "UCDW13ycIiHcl4QVN-YwVy0w",
         "author": "Archive Dive",
         "title": "Consuming Women",
         "video_id": "JP1jsKJxMos",
-        "date": "2025-12-14T11:00:28+00:00"
+        "date": "2025-12-14T11:00:28+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@astrumspace",
         "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
         "author": "Astrum",
         "title": "We Found the Most Powerful Object In the Universe",
         "video_id": "Y6slPVbwLhI",
-        "date": "2026-03-26T17:14:17+00:00"
+        "date": "2026-03-26T17:14:17+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@pbsspacetime",
         "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
         "author": "PBS Space Time",
         "title": "Martian Soil Is Deadly. And That's Why It Might Support Life.",
         "video_id": "O5FqozA4IpA",
-        "date": "2026-03-19T20:15:00+00:00"
+        "date": "2026-03-19T20:15:00+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@whatdamath",
         "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
         "author": "Anton Petrov",
-        "title": "Strange Asteroid Spins So Fast It Shouldn't Be Possible",
-        "video_id": "Bh2nWAT_9-s",
-        "date": "2026-03-28T22:00:16+00:00"
+        "title": "First Ever Confirmed Lava Planet With a Massive Ocean of Magma",
+        "video_id": "DHMRcgkXeDo",
+        "date": "2026-03-29T22:00:22+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@AmyShiraTeitel",
         "channel_id": "UCw95T_TgbGHhTml4xZ9yIqg",
         "author": "The Vintage Space",
         "title": "Unrelated to anything but still a gem #shorts #author",
         "video_id": "uKU-f9_y20k",
-        "date": "2026-03-28T18:56:42+00:00"
+        "date": "2026-03-28T18:56:42+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@acollierastro",
         "channel_id": "UCtscFf8VayggrDYjOwDke_Q",
         "author": "Angela Collier ",
         "title": "a nasty physics trick",
         "video_id": "MEDnyii0dlk",
-        "date": "2026-03-27T19:38:36+00:00"
+        "date": "2026-03-27T19:38:36+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@MinuteEarth",
         "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
         "author": "MinuteEarth",
         "title": "How would AI destroy the world?",
         "video_id": "VH-Q37JloMM",
-        "date": "2026-03-26T17:15:02+00:00"
+        "date": "2026-03-26T17:15:02+00:00",
+        "tags": [
+            "physical science"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@veritasium",
         "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
         "author": "Veritasium",
         "title": "The Secret Spy Tech Inside Every Credit Card",
         "video_id": "YSJY3DvnybE",
-        "date": "2026-03-26T17:47:09+00:00"
+        "date": "2026-03-26T17:47:09+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@PracticalEngineeringChannel",
         "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
         "author": "Practical Engineering",
         "title": "The Los Angeles Aqueduct is Wild",
         "video_id": "PhW2BjFQCZM",
-        "date": "2026-03-17T13:00:44+00:00"
+        "date": "2026-03-17T13:00:44+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@smartereveryday",
         "channel_id": "UC6107grRI4m0o2-emgoDnAA",
         "author": "SmarterEveryDay",
         "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313",
         "video_id": "-0JKHuzJ67A",
-        "date": "2026-03-06T20:30:16+00:00"
+        "date": "2026-03-06T20:30:16+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@SteveMould",
         "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
         "author": "Steve Mould",
         "title": "Surely it Breaks The 2nd Law",
         "video_id": "B_JavY7pSfE",
-        "date": "2026-02-28T19:57:19+00:00"
+        "date": "2026-02-28T19:57:19+00:00",
+        "tags": [
+            "physical science",
+            "show and tell"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@engineerguyvideo",
         "channel_id": "UC2bkHVIDjXS7sgrgjFtzOXQ",
         "author": "engineerguy",
         "title": "The masterful design of the two-liter plastic soda bottle",
         "video_id": "kU_gH36GG58",
-        "date": "2025-04-11T11:01:19+00:00"
+        "date": "2025-04-11T11:01:19+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@SabineHossenfelder",
         "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
         "author": "Sabine Hossenfelder",
         "title": "We pretty much have evidence for life in other solar systems.",
         "video_id": "a0lYZClPYgk",
-        "date": "2026-03-29T15:00:01+00:00"
+        "date": "2026-03-29T15:00:01+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@MinutePhysics",
         "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
         "author": "minutephysics",
         "title": "Schr\u00f6dinger\u2019s Cat (from the cat's perspective)",
         "video_id": "i45dfK7wYvA",
-        "date": "2026-03-21T17:00:00+00:00"
+        "date": "2026-03-21T17:00:00+00:00",
+        "tags": [
+            "physical science"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@physicsforthebirds",
         "channel_id": "UCeXksuVW8H1x9v4gh7DWoyQ",
         "author": "Physics for the Birds",
         "title": "Symmetry in Art and Physics",
         "video_id": "KnjRFC_aQB4",
-        "date": "2025-12-22T17:00:29+00:00"
+        "date": "2025-12-22T17:00:29+00:00",
+        "tags": [
+            "physical science",
+            "favorite"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@periodicvideos",
         "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
         "author": "Periodic Videos",
         "title": "Mystery Glassware - Periodic Table of Videos",
         "video_id": "ir25TYgdm0o",
-        "date": "2026-03-19T16:31:51+00:00"
+        "date": "2026-03-19T16:31:51+00:00",
+        "tags": [
+            "physical science",
+            "show and tell"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@Thoisoi2",
         "channel_id": "UC3j3w-oUtIAm_KI857ydvUA",
         "author": "Thoisoi2 - Chemical Experiments!",
         "title": "Ether -  The Most VOLATILE Substance on Earth!",
         "video_id": "Aq4_VnhuDRU",
-        "date": "2026-02-07T16:00:17+00:00"
+        "date": "2026-02-07T16:00:17+00:00",
+        "tags": [
+            "physical science",
+            "show and tell"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@illinoisenergyprof6878",
         "channel_id": "UCKH_iLhhkTyt8Dk4dmeCQ9w",
         "author": "Illinois EnergyProf",
         "title": "The Uranium Supply Chain",
         "video_id": "Tb9LCqDqX4s",
-        "date": "2025-11-11T16:44:44+00:00"
+        "date": "2025-11-11T16:44:44+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@CGPGrey",
         "channel_id": "UC2C_jShtL725hvbm1arSV9w",
         "author": "CGP Grey",
         "title": "Runway Numbers Explained",
         "video_id": "HSRmfNDk87s",
-        "date": "2025-04-14T19:47:51+00:00"
+        "date": "2025-04-14T19:47:51+00:00",
+        "tags": [
+            "social science"
+        ],
+        "category": "social science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@kylehill",
         "channel_id": "UCFbtcTaMFnOAP0pFO1L8hVw",
         "author": "Kyle Hill",
         "title": "Why Fusion is Always 10 Years Away",
         "video_id": "y--vJNHNvl0",
-        "date": "2026-03-26T20:30:10+00:00"
+        "date": "2026-03-26T20:30:10+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@TheActionLab",
         "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
         "author": "The Action Lab",
         "title": "I Built Feynman's Reverse Sprinkler To Solve 140 Year Old Mystery",
         "video_id": "G5DzkVI4EQE",
-        "date": "2026-03-28T15:02:00+00:00"
+        "date": "2026-03-28T15:02:00+00:00",
+        "tags": [
+            "physical science",
+            "show and tell"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@TheDoctorsBjorkman",
         "channel_id": "UCKwQjav6uPCFPIDL6SXjNqQ",
         "author": "The Doctors Bjorkman",
-        "title": "Is \"cry it out\" ACTUALLY bad for your baby?",
+        "title": "Is \"Sleep Training\" ACTUALLY bad for your baby?",
         "video_id": "9h8WJmreflU",
-        "date": "2026-03-29T16:03:10+00:00"
+        "date": "2026-03-29T16:03:10+00:00",
+        "tags": [
+            "talking head"
+        ],
+        "category": ""
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@econimate",
         "channel_id": "UCV7OupzIpYe9oIn_QSlyfJw",
         "author": "econimate",
         "title": "Is College Still an Engine of Social Mobility?",
         "video_id": "05OUfSKvlUw",
-        "date": "2026-03-17T13:58:35+00:00"
+        "date": "2026-03-17T13:58:35+00:00",
+        "tags": [
+            "social science"
+        ],
+        "category": "social science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@KieranBorovac",
         "channel_id": "UCWul-fy84WOBE_YMcw7uJ9w",
         "author": "Kieran Borovac",
         "title": "When is Easter?",
         "video_id": "awhGbKH3mGk",
-        "date": "2023-02-11T18:05:28+00:00"
+        "date": "2023-02-11T18:05:28+00:00",
+        "tags": [
+            "math"
+        ],
+        "category": "math"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@BennJordan",
         "channel_id": "UCshObcm-nLhbu8MY50EZ5Ng",
         "author": "Benn Jordan",
         "title": "My testimony at Dunwoody, GA city council hearing regarding a Flock Safety contract.",
         "video_id": "I_y7OjsI1Zk",
-        "date": "2026-03-24T18:49:51+00:00"
+        "date": "2026-03-24T18:49:51+00:00",
+        "tags": [
+            "tech"
+        ],
+        "category": "tech"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@AlphaPhoenixChannel",
         "channel_id": "UCCWeRTgd79JL0ilH0ZywSJA",
         "author": "AlphaPhoenix",
         "title": "Star-Stabilized 360 Camera #perfectloop #astronomy",
         "video_id": "nyBLcZjzh0I",
-        "date": "2026-03-24T00:57:10+00:00"
+        "date": "2026-03-24T00:57:10+00:00",
+        "tags": [
+            "physical science"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@sirrandalot",
         "channel_id": "UCNq1BjOvgnPx596ddBE3wZQ",
         "author": "sirrandalot",
         "title": "Search the Unsearchable",
         "video_id": "N6MEauvZYoM",
-        "date": "2024-04-01T13:56:38+00:00"
+        "date": "2024-04-01T13:56:38+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@MoneyMacro",
         "channel_id": "UCCKpicnIwBP3VPxBAZWDeNA",
         "author": "Money & Macro",
         "title": "How bad will this get?",
         "video_id": "T6BjSW4FrE4",
-        "date": "2026-03-27T13:30:00+00:00"
+        "date": "2026-03-27T13:30:00+00:00",
+        "tags": [
+            "social science",
+            "talking head"
+        ],
+        "category": "social science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@TheEconomist",
         "channel_id": "UC0p5jTq6Xx_DosDFxVXnWaQ",
         "author": "The Economist",
-        "title": "Peptides are not a miracle drug | The Economist",
-        "video_id": "7jBwo29fAck",
-        "date": "2026-03-29T14:00:00+00:00"
+        "title": "Alienating Latinos could cost Trump the midterms | The Economist",
+        "video_id": "8XEg9X5azvw",
+        "date": "2026-03-30T10:11:07+00:00",
+        "tags": [
+            "social science"
+        ],
+        "category": "social science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@Physics4Life",
         "channel_id": "UCHa0gEhM-eCT6a0B1w_ZVrw",
         "author": "Physics4Life",
         "title": "The TRUE meaning of Newton's Laws",
         "video_id": "ASzd_CT7Q64",
-        "date": "2025-07-11T15:02:21+00:00"
+        "date": "2025-07-11T15:02:21+00:00",
+        "tags": [
+            "physical science",
+            "talking head"
+        ],
+        "category": "physical science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "http://www.youtube.com/@ibx2cat",
         "channel_id": "UCJVnko6tQ56PYB5BNNChPGg",
         "author": "ibx2cat",
         "title": "The UK Is Building 7 New Towns",
         "video_id": "ZWXsMLgAccw",
-        "date": "2026-03-29T21:07:44+00:00"
+        "date": "2026-03-29T21:07:44+00:00",
+        "tags": [
+            "social science",
+            "talking head"
+        ],
+        "category": "social science"
     },
     {
-        "category": "Misc Science Commentary",
         "channel_url": "https://www.youtube.com/@FractalPhilosophy",
         "channel_id": "UCDRhoKKIzUZrJPzLCHo9s-w",
         "author": "Fractal Philosophy",
         "title": "Stories That Can't Be Told Linearly",
         "video_id": "N8QkFFe4zMA",
-        "date": "2026-03-03T13:00:41+00:00"
+        "date": "2026-03-03T13:00:41+00:00",
+        "tags": [
+            "media / pop culture"
+        ],
+        "category": "media / pop culture"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "https://www.youtube.com/@JoePeraComedy/",
         "channel_id": "UCfBAKxelvdN2XDFBcofx7Dg",
         "author": "Joe Pera",
         "title": "Spiraling out because you haven't found your tree (full christmas special here on youtube)",
         "video_id": "_Ed-872rTuQ",
-        "date": "2025-12-09T17:41:36+00:00"
+        "date": "2025-12-09T17:41:36+00:00",
+        "tags": [
+            "comedy",
+            "walkabout"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@JennaMarbles",
         "channel_id": "UC9gFih9rw0zNCK3ZtoKQQyA",
         "author": "JennaMarbles",
         "title": "Making A Dog Birthday Cake",
         "video_id": "KHCfr7qvkJs",
-        "date": "2020-06-18T03:19:54+00:00"
+        "date": "2020-06-18T03:19:54+00:00",
+        "tags": [
+            "comedy",
+            "talking head"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@TheAuntyDonnaChannel",
         "channel_id": "UC_mneEC0wc29EGGmIsN_xLA",
         "author": "Aunty Donna",
         "title": "Broden channelled Kath Day-Knight for his winter \u2018lympics look",
         "video_id": "BbTAgWxhytc",
-        "date": "2026-03-28T23:00:00+00:00"
+        "date": "2026-03-28T23:00:00+00:00",
+        "tags": [
+            "comedy",
+            "chaotic"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@TheDragonsTomb",
         "channel_id": "UC3izYCSBcfi2LfdIr-qg0gQ",
         "author": "The Dragon's Tomb",
         "title": "The Problem with \"Premium\" Board Game Tables (BoxKing Kingswood Review)",
         "video_id": "Rne-1lG-t6s",
-        "date": "2026-03-09T14:00:46+00:00"
+        "date": "2026-03-09T14:00:46+00:00",
+        "tags": [
+            "toys and games",
+            "chaotic"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@TheAlexErnstShow",
         "channel_id": "UCWk68Uw6V990fjnTbcOHeoA",
         "author": "Alex Ernst",
         "title": "What I actually do for a living",
         "video_id": "qSYAPcnbhsU",
-        "date": "2026-03-29T16:00:56+00:00"
+        "date": "2026-03-29T16:00:56+00:00",
+        "tags": [
+            "comedy",
+            "talking head"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@billwurtz",
         "channel_id": "UCq6aw03lNILzV96UvEAASfQ",
         "author": "bill wurtz",
         "title": "how to pull a rabbit out of a hat",
         "video_id": "puEXAIiT5wk",
-        "date": "2022-11-26T19:54:54+00:00"
+        "date": "2022-11-26T19:54:54+00:00",
+        "tags": [
+            "comedy",
+            "musical"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@RyansShorts",
         "channel_id": "UC6yeqgmyqhDyMPzE4wwxQig",
         "author": "Ryan's Shorts",
         "title": "The Classic Memphis Christmas Carol \"Santa Got Stuck At Starry Nights\"",
         "video_id": "7kBAUjSnhWo",
-        "date": "2025-12-18T02:06:29+00:00"
+        "date": "2025-12-18T02:06:29+00:00",
+        "tags": [
+            "comedy",
+            "musical"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@briandavidgilbert",
         "channel_id": "UCakAg8hC_RFJm4RI3DlD7SA",
         "author": "brian david gilbert",
         "title": "Tiny Little Lip Balm",
         "video_id": "GCmsQeE2bQ8",
-        "date": "2026-03-27T16:00:31+00:00"
+        "date": "2026-03-27T16:00:31+00:00",
+        "tags": [
+            "comedy",
+            "musical"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@Lord_Vinheteiro",
         "channel_id": "UCSE6yilNScIz1SLTNQvrXMw",
         "author": "Vinheteiro",
         "title": "4 Chinese Instruments You've Never Seen Before",
         "video_id": "sZaLpXZTs_4",
-        "date": "2026-03-25T15:45:07+00:00"
+        "date": "2026-03-25T15:45:07+00:00",
+        "tags": [
+            "comedy",
+            "musical"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@Mattiaskrantz",
         "channel_id": "UCEgm-3RvRn4nCR-fGGVsfdQ",
         "author": "Mattias Krantz",
         "title": "Street musician can't believe the guitar I just handed him",
         "video_id": "KvlKOp-LtoM",
-        "date": "2026-02-26T16:04:45+00:00"
+        "date": "2026-02-26T16:04:45+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "http://www.youtube.com/@SethEverman",
         "channel_id": "UCoNRSwYHJdy-yV1b82ZdHfQ",
         "author": "SethEverman",
         "title": "3 years ago",
         "video_id": "bJoyef8f8Kg",
-        "date": "2023-11-24T17:07:09+00:00"
+        "date": "2023-11-24T17:07:09+00:00",
+        "tags": [
+            "comedy",
+            "musical"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Comedy and the Like",
         "channel_url": "https://www.youtube.com/@SaturdayNightLive",
         "channel_id": "UCqFzWxSCi39LnW1JKFR3efg",
         "author": "Saturday Night Live",
         "title": "The Rundown: Dana Carvey Picks a Live Sketch - SNL",
         "video_id": "PhUp8XjD3hc",
-        "date": "2026-03-25T20:00:30+00:00"
+        "date": "2026-03-25T20:00:30+00:00",
+        "tags": [
+            "comedy"
+        ],
+        "category": "comedy"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@BenGThomas",
         "channel_id": "UCDSzwZqgtJEnUzacq3ddoOQ",
         "author": "Ben G Thomas",
         "title": "The Speculative Evolution of Project Hail Mary",
         "video_id": "5K_rucrFBuQ",
-        "date": "2026-03-21T23:00:08+00:00"
+        "date": "2026-03-21T23:00:08+00:00",
+        "tags": [
+            "animals and biology",
+            "talking head"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@TREYtheExplainer",
         "channel_id": "UCOuWeOkMrq84u5LY6apWQ8Q",
         "author": "TREY the Explainer",
         "title": "JoJo Posing at Steel Ball Run Locations IRL",
         "video_id": "7DYfdbB5mXI",
-        "date": "2026-03-18T14:05:54+00:00"
+        "date": "2026-03-18T14:05:54+00:00",
+        "tags": [
+            "animals and biology",
+            "talking head"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@eons",
         "channel_id": "UCzR-rom72PHN9Zg7RML9EbA",
         "author": "PBS Eons",
         "title": "High Mammals Smell Worse",
         "video_id": "0ZY4-T1ix3g",
-        "date": "2026-03-26T16:15:01+00:00"
+        "date": "2026-03-26T16:15:01+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@TierZoo",
         "channel_id": "UCHsRtomD4twRf5WVHHk-cMw",
         "author": "TierZoo",
         "title": "Which insect truly rules the air?",
         "video_id": "d-ubcgz1xjE",
-        "date": "2026-03-24T02:56:40+00:00"
+        "date": "2026-03-24T02:56:40+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@SallyLePage",
         "channel_id": "UC9AUeAvdEVJfyS9rd9pvp8g",
         "author": "Sally Le Page",
         "title": "Is all plastic inherently evil?",
         "video_id": "0t-OA1lym2s",
-        "date": "2021-06-14T15:00:02+00:00"
+        "date": "2021-06-14T15:00:02+00:00",
+        "tags": [
+            "animals and biology",
+            "talking head"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@zefrank",
         "channel_id": "UCVpankR4HtoAVtYnFDUieYA",
         "author": "Ze Frank",
         "title": "what will you do today?",
         "video_id": "OKfqDr8sYws",
-        "date": "2026-03-14T18:54:30+00:00"
+        "date": "2026-03-14T18:54:30+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@KQEDDeepLook",
         "channel_id": "UC-3SbfTPJsL8fJAPKiVqBLg",
         "author": "Deep Look",
         "title": "This Ruthless Spider Is the Master of the Jump Scare | #DeepLook #Shorts",
         "video_id": "xw4BPniE2m4",
-        "date": "2026-03-25T16:01:24+00:00"
+        "date": "2026-03-25T16:01:24+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@EVNautilus",
         "channel_id": "UC1KOOWHthbQVXH2kZue3_xA",
         "author": "EVNautilus",
         "title": "Shimmering Cook Island Ctenophores | Nautilus Live",
         "video_id": "BGQNhQsQSvw",
-        "date": "2026-03-27T19:00:14+00:00"
+        "date": "2026-03-27T19:00:14+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@BizarreBeasts",
         "channel_id": "UC9Lp_AA5M2cMGrlvnnIns-g",
         "author": "Bizarre Beasts",
         "title": "These Parasitic Wasps Are Part Virus",
         "video_id": "LmQNrI4aIzo",
-        "date": "2026-03-02T17:00:29+00:00"
+        "date": "2026-03-02T17:00:29+00:00",
+        "tags": [
+            "animals and biology",
+            "talking head"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@cmkosemen",
         "channel_id": "UCMy7mRjghOxB8h3nv60SU4w",
         "author": "cmkosemen",
         "title": "Insane Expedition to Abandoned Legacy Corporate HQ",
         "video_id": "AAZBh-_R-Hc",
-        "date": "2026-03-28T12:44:07+00:00"
+        "date": "2026-03-28T12:44:07+00:00",
+        "tags": [
+            "animals and biology",
+            "walkabout"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@HistoryoftheEarth",
         "channel_id": "UC_aOteuWIY8ITg7DQQspG1g",
         "author": "History of the Earth",
         "title": "What Was The Earth Like When It Had Rings?",
         "video_id": "NfCAidnP6YA",
-        "date": "2025-10-30T22:50:10+00:00"
+        "date": "2025-10-30T22:50:10+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@ClintsReptiles",
         "channel_id": "UCH18915fTE6yZzKrqdea8RQ",
         "author": "Clint's Reptiles",
         "title": "Making Babies By Hijacking Crabs - A How-to Guide To Parasitic Castration",
         "video_id": "3eU_NZtfXOQ",
-        "date": "2026-03-28T12:00:05+00:00"
+        "date": "2026-03-28T12:00:05+00:00",
+        "tags": [
+            "animals and biology",
+            "talking head"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@AronRa",
         "channel_id": "UCAJfDidJyukTekgSRZrjadw",
         "author": "AronRa",
-        "title": "How baby retics climb.",
-        "video_id": "FF03u1S6XWI",
-        "date": "2026-03-27T04:31:27+00:00"
+        "title": "At the \"No Kings\" rally",
+        "video_id": "sUUOXTytV9A",
+        "date": "2026-03-30T07:22:02+00:00",
+        "tags": [
+            "animals and biology",
+            "talking head"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@journeytomicro",
         "channel_id": "UCBbnbBWJtwsf0jLGUwX5Q3g",
         "author": "Journey to the Microcosmos",
         "title": "The Future of Microscopy (and end of our Journey)",
         "video_id": "DoQ5RXflnuY",
-        "date": "2024-10-28T14:00:20+00:00"
+        "date": "2024-10-28T14:00:20+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@Phrenotopia",
         "channel_id": "UCO-8Osf4S3N0m7u1NivTfeg",
         "author": "Phrenotopia",
         "title": "Earth Analogues | Other Worlds ep. 5",
         "video_id": "F_MfQ3r73zA",
-        "date": "2025-08-09T21:00:06+00:00"
+        "date": "2025-08-09T21:00:06+00:00",
+        "tags": [
+            "animals and biology"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@octolabtv1168",
         "channel_id": "UCNo_xQ7NvTr31naPAcjQWjg",
         "author": "Octolab TV",
         "title": "Octopus Christmas Tree Shopping",
         "video_id": "vrthz3HdlPE",
-        "date": "2021-12-25T16:08:17+00:00"
+        "date": "2021-12-25T16:08:17+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@KOTARO_OTTER",
         "channel_id": "UCDYyCQAk60CqabvkL5gU3Mw",
         "author": "KOTSUMET",
         "title": "\u30ab\u30ef\u30a6\u30bd\u306b\u521d\u3081\u3066\u30b7\u30e5\u30ea\u30f3\u30d7\u30ab\u30af\u30c6\u30eb\u3042\u3052\u305f\u3089\u3053\u3046\u306a\u3063\u305f\u3000Otters\u2019 HONEST Review of Shrimp Cocktail",
         "video_id": "-xqgqgfwYjk",
-        "date": "2026-03-28T11:00:01+00:00"
+        "date": "2026-03-28T11:00:01+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@NinjaFrog777",
         "channel_id": "UCrJH2Wy7PmCiitXKJ21yh4w",
         "author": "Ninja Frog",
         "title": "Too Round to Jump - Potato Fairy Music",
         "video_id": "wL5l6J9DJsE",
-        "date": "2025-08-03T01:00:54+00:00"
+        "date": "2025-08-03T01:00:54+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@cruiser1228",
         "channel_id": "UCWIxPuO_0emPbma8UlOc3JQ",
         "author": "Cruiser",
         "title": "164 Bucky and the slippery fish Oct 23 2025 explore.org",
         "video_id": "2Cdy8IROtLA",
-        "date": "2025-10-24T04:03:23+00:00"
+        "date": "2025-10-24T04:03:23+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@cherylb4420",
         "channel_id": "UCpjhDz9Sqn-6h1ZwtvUiA2g",
         "author": "Cheryl B",
         "title": "11/4/2022 LS Young Polar bears playing Explore.org",
         "video_id": "3Z78ZvO4_nk",
-        "date": "2022-11-06T05:27:53+00:00"
+        "date": "2022-11-06T05:27:53+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@Mr.Frog.",
         "channel_id": "UCWUH_hdDfzi98i3clGbh_Ww",
         "author": "Mr. Frog",
         "title": "I gave instruction \ud83d\udc38toad",
         "video_id": "5jDBztAdhq8",
-        "date": "2026-01-01T14:45:20+00:00"
+        "date": "2026-01-01T14:45:20+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@HomuraHam",
         "channel_id": "UCKwcMBhbzQXgSM1T3TvHmiA",
         "author": "Homura Ham",
         "title": "Galactic Wars: Hamster Knight Escapes the Imperial Prison Maze \ud83d\udc39 Homura Ham",
         "video_id": "T34KEZjkDJc",
-        "date": "2026-03-20T07:00:32+00:00"
+        "date": "2026-03-20T07:00:32+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@TheUrbanRescueRanch",
         "channel_id": "UCv3mh2P-q3UCtR9-2q8B-ZA",
         "author": "The Urban Rescue Ranch",
         "title": "Someone Gave Me a 9 Foot Crocodile (we ate him)",
         "video_id": "ACYGwPv9Xp0",
-        "date": "2026-03-28T18:45:55+00:00"
+        "date": "2026-03-28T18:45:55+00:00",
+        "tags": [
+            "animals and biology",
+            "chaotic"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
-        "channel_url": "http://www.youtube.com/@LOUTRE",
-        "channel_id": "UCz6yuUg6N0iRiFhCLmXrNJQ",
-        "author": "LOUTRE",
-        "title": "\u7720\u304f\u306a\u308b\u3068\u6398\u308a\u6398\u308a\u3059\u308b\u30ab\u30ef\u30a6\u30bd #shorts",
-        "video_id": "rpdWRjQHoGo",
-        "date": "2026-03-29T14:46:01+00:00"
-    },
-    {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@Bradybrandwood",
         "channel_id": "UCj2Eeg01Mn5WmcXxt695fUg",
         "author": "Brady Brandwood",
         "title": "What Will We Find On These Old VHS Tapes?  Will They Even Play???",
         "video_id": "lh-a8bTkGtQ",
-        "date": "2026-03-25T00:57:12+00:00"
+        "date": "2026-03-25T00:57:12+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@FOBBVCAM",
         "channel_id": "UCsFgbVuhRrPV5FqyN7kOD8g",
         "author": "FOBBV CAM",
-        "title": "3-28-2026 The Sweet Sounds of Springtime in the Nest",
-        "video_id": "JyysKWx1faE",
-        "date": "2026-03-29T21:35:35+00:00"
+        "title": "3-29-2026 Pip Watch Begins Tomorrow\u2026",
+        "video_id": "KarjeE1Rse4",
+        "date": "2026-03-30T18:27:51+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@wrinkletheduck",
         "channel_id": "UCPPjuJTt9jiOZNHScvEmvRg",
         "author": "seDUCKtive",
-        "title": "I took my duck to Luna Parc \ud83c\udfa8",
-        "video_id": "xtveETvDRJY",
-        "date": "2025-12-20T18:03:25+00:00"
+        "title": "I took my duck to the gas station",
+        "video_id": "aD56Skj5TTA",
+        "date": "2026-03-30T19:09:17+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@ApolloandFrens",
         "channel_id": "UCnUdaxbBMPQ9o9KVz7Oa6eQ",
         "author": "Apollo and Frens",
         "title": "Apollo VS Yucca \ud83c\udf34",
         "video_id": "jaBXSM5nlX0",
-        "date": "2026-03-28T18:17:52+00:00"
+        "date": "2026-03-28T18:17:52+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@davidmbird",
         "channel_id": "UC6q7I1DD2Jv5Ur9UEIavIrA",
         "author": "Becorns | David M Bird",
         "title": "Becorns Carry an Icicle",
         "video_id": "TEkDsGs6reU",
-        "date": "2026-03-02T17:00:50+00:00"
+        "date": "2026-03-02T17:00:50+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@LesleytheBirdNerd",
         "channel_id": "UCDjdXwT-KrFPsqOSg4KL8Nw",
         "author": "Lesley the Bird Nerd",
         "title": "What Makes a Blue Jay Blue? The Fascinating Truth  #birds #wildlife",
         "video_id": "03OSf6eNiYE",
-        "date": "2025-11-10T01:13:04+00:00"
+        "date": "2025-11-10T01:13:04+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "http://www.youtube.com/@MyBackyardBirding",
         "channel_id": "UCcNyzOCKvyMBaA4iQVgO9EQ",
         "author": "MyBackyardBirding",
-        "title": "Roseate Spoonbill Parents Feeding Young \"Teaspoons\" #birds",
-        "video_id": "LjoiFkTKvdE",
-        "date": "2026-03-29T13:56:38+00:00"
+        "title": "Florida Scrub Jay #birds",
+        "video_id": "mhMZEyc7p1o",
+        "date": "2026-03-30T17:44:19+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Animals and Biology",
         "channel_url": "https://www.youtube.com/@OctopusLady",
         "channel_id": "UC8_YhCUr_HRsLAtSddGeFcw",
         "author": "The Octopus Lady",
         "title": "This Fish Has Murdered People",
         "video_id": "AR3giINZN_k",
-        "date": "2026-02-02T23:18:57+00:00"
+        "date": "2026-02-02T23:18:57+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ],
+        "category": "animals and biology"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "https://www.youtube.com/@williamosman",
         "channel_id": "UCfMJ2MchTSW2kWaT0kK94Yw",
         "author": "William Osman",
         "title": "i tried increasing my pain tolerance",
         "video_id": "yw67_k6oDQY",
-        "date": "2025-04-16T21:56:05+00:00"
+        "date": "2025-04-16T21:56:05+00:00",
+        "tags": [
+            "making things",
+            "chaotic",
+            "favorite"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@MichaelReeves",
         "channel_id": "UCtHaxi4GTYDpJgMSGy7AeSw",
         "author": "Michael Reeves",
         "title": "I Built a Dog Catapult",
         "video_id": "oA85M9JHsW0",
-        "date": "2026-02-13T17:17:16+00:00"
+        "date": "2026-02-13T17:17:16+00:00",
+        "tags": [
+            "making things",
+            "chaotic",
+            "favorite"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@styropyro",
         "channel_id": "UCJYJgj7rzsn0vdR7fkgjuIA",
         "author": "styropyro",
         "title": "Have you ever seen a cyan laser?",
         "video_id": "LWcXrT90JEw",
-        "date": "2026-03-17T21:30:04+00:00"
+        "date": "2026-03-17T21:30:04+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@WilliamOsman2",
         "channel_id": "UCbguawtJlHjxXzdAskubQVg",
         "author": "William Osman 2",
         "title": "i'm tired boss",
         "video_id": "3CMKNQkwVnE",
-        "date": "2026-03-28T13:30:02+00:00"
+        "date": "2026-03-28T13:30:02+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@allenpan",
         "channel_id": "UCVS89U86PwqzNkK2qYNbk5A",
         "author": "Allen Pan",
         "title": "strapping a PC on my back to game outside",
         "video_id": "1-CxYKRLnDU",
-        "date": "2026-03-29T17:16:37+00:00"
+        "date": "2026-03-29T17:16:37+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@Ididathing",
         "channel_id": "UCJLZe_NoiG0hT7QCX_9vmqw",
         "author": "I did a thing",
         "title": "Bringing the Worlds Worst Invention to Life!",
         "video_id": "AFNmwFpyB3E",
-        "date": "2026-03-07T14:00:13+00:00"
+        "date": "2026-03-07T14:00:13+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@ElectroBOOM",
         "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
         "author": "ElectroBOOM",
         "title": "DON'T Screw into MY FLOOR!",
         "video_id": "F-CFdCp0xaw",
-        "date": "2026-03-20T16:04:08+00:00"
+        "date": "2026-03-20T16:04:08+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@Glarses",
         "channel_id": "UCFtOX-21N1earf-K58C7HjQ",
         "author": "Glarses",
         "title": "touchgrass60",
         "video_id": "WHxR6cvgMyM",
-        "date": "2026-03-27T15:49:22+00:00"
+        "date": "2026-03-27T15:49:22+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@ExtractionsAndIre",
         "channel_id": "UCvFApMFo_AafXbHRyEJefjA",
         "author": "Extractions&Ire",
         "title": "Can I make Silicon Carbide at home?",
         "video_id": "DfWHLkphWys",
-        "date": "2025-11-30T22:46:28+00:00"
+        "date": "2025-11-30T22:46:28+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@ExplosionsAndFire",
         "channel_id": "UCVovvq34gd0ps5cVYNZrc7A",
         "author": "Explosions&Fire",
         "title": "Impossible Perbromate Pyrotechnics at home",
         "video_id": "7ayFiLpXWTI",
-        "date": "2025-10-12T21:32:50+00:00"
+        "date": "2025-10-12T21:32:50+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@NileRed2",
         "channel_id": "UCA0mlN90EHCizvo101nbr-g",
         "author": "NileRed 2",
         "title": "This is what REALLY happened at Polaroid",
         "video_id": "7Jkbug2l9K8",
-        "date": "2023-04-04T21:15:30+00:00"
+        "date": "2023-04-04T21:15:30+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things (Chaotic)",
         "channel_url": "http://www.youtube.com/@NileBlue",
         "channel_id": "UC1D3yD4wlPMico0dss264XA",
         "author": "NileBlue",
         "title": "Making a ridiculously heavy tungsten suit (it broke my body)",
         "video_id": "M11pWurvpAo",
-        "date": "2026-03-03T23:33:00+00:00"
+        "date": "2026-03-03T23:33:00+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@StuffMadeHere",
         "channel_id": "UCj1VqrHhDte54oLgPG4xpuQ",
         "author": "Stuff Made Here",
         "title": "My robotic club won't let you miss",
         "video_id": "JQB8aNKyeao",
-        "date": "2026-01-01T04:51:16+00:00"
+        "date": "2026-01-01T04:51:16+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@NileRed",
         "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
         "author": "NileRed",
         "title": "These metals melt when pushed together",
         "video_id": "QNPrHtcn6nM",
-        "date": "2026-03-19T18:42:09+00:00"
+        "date": "2026-03-19T18:42:09+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@thethoughtemporium",
         "channel_id": "UCV5vCi3jPJdURZwAOO_FNfQ",
         "author": "The Thought Emporium",
         "title": "How to build your dragon (training sold separately)",
         "video_id": "Qo0kKk8loGQ",
-        "date": "2026-03-19T15:33:08+00:00"
+        "date": "2026-03-19T15:33:08+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@tom7",
         "channel_id": "UC3azLjQuz9s5qk76KEXaTvA",
         "author": "suckerpinch",
         "title": "Mathematically extra-complicated Secretest Santa 2025",
         "video_id": "4pG8_bWpmaE",
-        "date": "2025-12-24T23:30:52+00:00"
+        "date": "2025-12-24T23:30:52+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@tomwildenhain",
         "channel_id": "UCgO8vdeWcywARd99Od-H_8A",
         "author": "Tom Wildenhain",
         "title": "Can we compile C code into PowerPoint?",
         "video_id": "LArkm4v5mWA",
-        "date": "2020-04-01T23:14:10+00:00"
+        "date": "2020-04-01T23:14:10+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@kiwami-japan",
         "channel_id": "UCg3qsVzHeUt5_cPpcRtoaJQ",
         "author": "\u5727\u5012\u7684\u4e0d\u5be9\u8005\u306e\u6975\u307f!",
         "title": "\u8150\u3063\u3066\u3044\u304f\u8089\u3068\u8150\u3089\u305b\u305f\u304f\u306a\u3044\u7537\u306e\u8089\u7269\u8a9e\u3002\u8089\u3067\u4f5c\u3089\u308c\u305f\u5305\u4e01",
         "video_id": "Q1VWUL0G0uU",
-        "date": "2022-09-04T12:30:06+00:00"
+        "date": "2022-09-04T12:30:06+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@LabCoatz_Science",
         "channel_id": "UCcT_WBynr2K8nANsVrR8BYw",
         "author": "LabCoatz",
         "title": "Putting a 360 Camera in Front of a TORNADO",
         "video_id": "t_iwcsEImFM",
-        "date": "2026-03-24T12:01:41+00:00"
+        "date": "2026-03-24T12:01:41+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@Nighthawkinlight",
         "channel_id": "UCFtc3XdXgLFwhlDajMGK69w",
         "author": "NightHawkInLight",
         "title": "Perfect Aircrete, Kitchen Ingredients.",
         "video_id": "z4_GxPHwqkA",
-        "date": "2025-12-18T17:07:45+00:00"
+        "date": "2025-12-18T17:07:45+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@AppliedScience",
         "channel_id": "UCivA7_KLKWo43tFcCkFvydw",
         "author": "Applied Science",
         "title": "Acoustic Radiometer spins in 130dB sound, clockwise and counter-clockwise depending on sound pattern",
         "video_id": "lAeJvZfVLbE",
-        "date": "2025-11-17T03:02:30+00:00"
+        "date": "2025-11-17T03:02:30+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@PyrotechnicalScience",
         "channel_id": "UC1_kuFbEBdHtf7_c2wIdNVg",
         "author": "Pyrotechnical Science ",
         "title": "Turning aspirin into a lethal weight loss drug",
         "video_id": "T5TiRCicj5A",
-        "date": "2024-06-30T12:51:46+00:00"
+        "date": "2024-06-30T12:51:46+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@EmilyTheEngineer",
         "channel_id": "UC_4YBM08hcpJqLl3vvgTqXg",
         "author": "Emily The Engineer",
         "title": "I Built an EpiPen Launcher",
         "video_id": "veZvQduDRtg",
-        "date": "2026-02-27T18:07:44+00:00"
+        "date": "2026-02-27T18:07:44+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@IanHubert2",
         "channel_id": "UCbmxZRQk-X0p-TOxd6PEYJA",
         "author": "IanHubert",
         "title": "Prepare for Execution - DYNAMO DREAM - Ep2",
         "video_id": "29E-HNTWEOE",
-        "date": "2024-09-04T06:43:48+00:00"
+        "date": "2024-09-04T06:43:48+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@SebastianLague",
         "channel_id": "UCmtyQOKKmrMVaKuRXz02jbQ",
         "author": "Sebastian Lague",
         "title": "I Tried Coding My Own Synthesizer",
         "video_id": "rRnOtKlg4jA",
-        "date": "2026-03-20T11:46:55+00:00"
+        "date": "2026-03-20T11:46:55+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@KazeN64",
         "channel_id": "UCuvSqzfO_LV_QzHdmEj84SQ",
         "author": "Kaze Emanuar",
         "title": "3D Art is Math (on the N64)",
         "video_id": "kkfRbCqsN6s",
-        "date": "2026-02-14T15:45:04+00:00"
+        "date": "2026-02-14T15:45:04+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@KazeClips",
         "channel_id": "UCiIHJurLcZu5wzUBtTNqtvw",
         "author": "KazeClips",
-        "title": "1 million fireflies",
-        "video_id": "2h5UnmAW9R8",
-        "date": "2026-03-29T14:45:00+00:00"
+        "title": "Side levels!",
+        "video_id": "r_5TkY2GOQE",
+        "date": "2026-03-30T17:01:43+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@Junferno",
         "channel_id": "UCRb6Mw3fJ6OFzp-cB9X29aA",
         "author": "Junferno",
         "title": "Wacky History of Computer Scrabble",
         "video_id": "HP90knHlYqc",
-        "date": "2025-07-11T03:40:54+00:00"
+        "date": "2025-07-11T03:40:54+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@ZenoRogue",
         "channel_id": "UCfCtbgiDxwFtlqrbEralvTw",
         "author": "ZenoRogue",
         "title": "Non-Euclidean Game + Relativity = ?",
         "video_id": "PxnoSsjMrck",
-        "date": "2025-06-19T13:58:23+00:00"
+        "date": "2025-06-19T13:58:23+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@CodeParade",
         "channel_id": "UCrv269YwJzuZL3dH5PCgxUw",
         "author": "CodeParade",
         "title": "Ultimate Red Light Green Light",
         "video_id": "us6YPp9sNJM",
-        "date": "2025-12-31T17:08:40+00:00"
+        "date": "2025-12-31T17:08:40+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
-        "channel_url": "http://www.youtube.com/@InkboxSoftware",
-        "channel_id": "UCBciYThS5hOiuQ4aOxw4hHg",
-        "author": "Inkbox",
-        "title": "No More Windows. I'm Using DOS Now.",
-        "video_id": "mwLIgdRj5bI",
-        "date": "2026-02-25T10:01:13+00:00"
-    },
-    {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@Jam2go",
         "channel_id": "UClSfrg5hVNhIlwv7hEmVD2g",
         "author": "Jam2go",
-        "title": "Teto Hallway Illusion",
-        "video_id": "OQ0py42M1DA",
-        "date": "2026-03-28T15:03:58+00:00"
+        "title": "Teto sees a ghost",
+        "video_id": "ec7zMCQE5kk",
+        "date": "2026-03-29T22:32:12+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@carykh",
         "channel_id": "UC9z7EZAbkphEMg0SP7rw44A",
         "author": "carykh",
         "title": "Real vs Homemade Coca Cola taste testing!",
         "video_id": "PR8tIUM7Rkg",
-        "date": "2026-02-17T02:44:29+00:00"
+        "date": "2026-02-17T02:44:29+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@JohnNelsonMaps",
         "channel_id": "UCpdwmy5JTFNUkKknxHH9Dsg",
         "author": "John Nelson Maps",
         "title": "Advice for ArcGIS Dashboard Design",
         "video_id": "P4x035teP78",
-        "date": "2026-03-23T13:08:47+00:00"
+        "date": "2026-03-23T13:08:47+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@Acerola_t",
         "channel_id": "UCQG40havu4kNpB4pxUDQhYQ",
         "author": "Acerola",
         "title": "\"Indie\" never really meant \"Independent\"",
         "video_id": "x-DIGi8Sc9E",
-        "date": "2026-01-30T20:04:54+00:00"
+        "date": "2026-01-30T20:04:54+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@marcevanstein",
         "channel_id": "UC0AJ676UuHdQ0zshDEkyfTA",
         "author": "Marc Evanstein / music\u2024py",
         "title": "22/7 Sounds Better than Pi",
         "video_id": "8Y4SByuw9AM",
-        "date": "2026-03-14T21:07:29+00:00"
+        "date": "2026-03-14T21:07:29+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@GoodInventions",
         "channel_id": "UCoQBtJ24OUqB4O285xp9ZrQ",
         "author": "GoodInventions",
         "title": "Ep16 The Great Hunt",
         "video_id": "8zuhDOtaDs8",
-        "date": "2020-06-04T14:00:06+00:00"
+        "date": "2020-06-04T14:00:06+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@UnnecessaryInventions",
         "channel_id": "UCB4NFn-8oipHct0IfAQBQrQ",
         "author": "Unnecessary Inventions",
         "title": "How to stop late night snacking.",
         "video_id": "AV3BH2lB8pQ",
-        "date": "2026-03-25T16:45:17+00:00"
+        "date": "2026-03-25T16:45:17+00:00",
+        "tags": [
+            "making things",
+            "chaotic"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@pocket83",
         "channel_id": "UCoCEoPxruw9HW58O-l3ttDQ",
         "author": "pocket83",
         "title": "Endless Knot \u221e Finite Wood",
         "video_id": "JP1K5XZRsKE",
-        "date": "2021-10-30T18:36:33+00:00"
+        "date": "2021-10-30T18:36:33+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@hedronrockworks",
         "channel_id": "UCXgpaZxObvROehgpRAmg0SQ",
         "author": "Hedron Rockworks",
         "title": "Dino Bone D20",
         "video_id": "gqJZNFSLDhc",
-        "date": "2025-10-18T14:16:27+00:00"
+        "date": "2025-10-18T14:16:27+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@theCodyReeder",
         "channel_id": "UCu6mSoMNzHQiBIOCkHUa2Aw",
         "author": "Cody'sLab",
         "title": "Distilling Alcohol at Room Temperature Without Pulling Vacuum!",
         "video_id": "lEIkvXy62HE",
-        "date": "2026-03-28T13:03:29+00:00"
+        "date": "2026-03-28T13:03:29+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@htme",
         "channel_id": "UCfIqCzQJXvYj9ssCoHq327g",
         "author": "How To Make Everything",
         "title": "Nature's Sandpaper: Horsetail Grass",
         "video_id": "09UTkYbZd8c",
-        "date": "2026-03-13T15:54:38+00:00"
+        "date": "2026-03-13T15:54:38+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@barnabydixon",
         "channel_id": "UCxseO_JzIiiJENauW2RmcJQ",
         "author": "barnabydixon",
         "title": "FORKSICHORD \u2014 \u201cDanny Boy\u201d \ud83c\uddee\ud83c\uddea",
         "video_id": "u9dcrMXtQew",
-        "date": "2026-03-15T14:03:36+00:00"
+        "date": "2026-03-15T14:03:36+00:00",
+        "tags": [
+            "making things",
+            "show and tell"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "https://www.youtube.com/@Wintergatan",
         "channel_id": "UCcXhhVwCT6_WqjkEniejRJQ",
         "author": "Wintergatan",
-        "title": "Learning Onshape with Derek van Allen - 8 Lessons from the Marble Machine Project",
-        "video_id": "qPZ5k6UHke0",
-        "date": "2026-03-28T21:49:49+00:00"
+        "title": "Marble Machine Live: Learning to Love Design Requirements Part 3",
+        "video_id": "lO8Yy0DAfcY",
+        "date": "2026-03-30T11:06:08+00:00",
+        "tags": [
+            "making things",
+            "musical"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@peter_knetter",
         "channel_id": "UCNMyoMaXJZITZaRKCz7G23Q",
         "author": "Peter Knetter",
         "title": "Turning Your Comments Into Sonic",
         "video_id": "i5kBrDmW-ew",
-        "date": "2026-03-25T22:13:32+00:00"
+        "date": "2026-03-25T22:13:32+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "http://www.youtube.com/@simonegiertz",
         "channel_id": "UC3KEoMzNz8eYnwBC34RaKCQ",
         "author": "Simone Giertz",
-        "title": "I made a better chair for your bedroom",
-        "video_id": "Q_f8w9aI1UM",
-        "date": "2026-03-27T16:00:30+00:00"
+        "title": "Come with us on set!",
+        "video_id": "BiGAGiQKYSs",
+        "date": "2026-03-30T16:00:00+00:00",
+        "tags": [
+            "making things",
+            "talking head"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "https://www.youtube.com/@Slingshotchannel",
         "channel_id": "UCVZlxkKqlvVqzRJXhAGq42Q",
         "author": "JoergSprave",
         "title": "Dart Hiker: Das Nadel-Revolver-Blasrohr ist da! 89 \u20ac",
         "video_id": "rwWSChGw22E",
-        "date": "2026-03-27T15:26:44+00:00"
+        "date": "2026-03-27T15:26:44+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Making Things of Various Sorts",
         "channel_url": "https://www.youtube.com/@Iliketomakestuff",
         "channel_id": "UC6x7GwJxuoABSosgVXDYtTw",
         "author": "I Like To Make Stuff",
         "title": "The Final Pieces of my Biggest Project Ever",
         "video_id": "aBlpd83AbW8",
-        "date": "2026-03-21T15:00:00+00:00"
+        "date": "2026-03-21T15:00:00+00:00",
+        "tags": [
+            "making things"
+        ],
+        "category": "making things"
     },
     {
-        "category": "Boardgames",
         "channel_url": "https://www.youtube.com/@actualol",
         "channel_id": "UCO-hn9MJOu7pOUdGSabKGvA",
         "author": "Actualol",
         "title": "Fixing My Subscribers\u2019 Board Game Nightmares",
         "video_id": "Y6hXC7YmKS8",
-        "date": "2026-03-27T16:45:09+00:00"
+        "date": "2026-03-27T16:45:09+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
         "channel_url": "https://www.youtube.com/@ShutUpandSitDown",
         "channel_id": "UCyRhIGDUKdIOw07Pd8pHxCw",
         "author": "Shut Up & Sit Down",
         "title": "The Top 100 Board Games of All Time: Last Will",
         "video_id": "psIh9S-G9t4",
-        "date": "2026-03-19T17:39:51+00:00"
+        "date": "2026-03-19T17:39:51+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
-        "channel_url": "https://www.youtube.com/@TheDiceTower",
-        "channel_id": "UCiwBbXQlljGjKtKhcdMliRA",
-        "author": "The Dice Tower",
-        "title": "The Original Top 100 Revisited: Apples to Apples, Domaine and More!",
-        "video_id": "SJLlBe2OXG0",
-        "date": "2026-03-29T19:00:27+00:00"
-    },
-    {
-        "category": "Boardgames",
         "channel_url": "https://www.youtube.com/@TolarianCommunityCollege",
         "channel_id": "UC7-hR5EfgpM6oHfiGDkxfMA",
         "author": "Tolarian Community College",
-        "title": "This Is Unsustainable | Magic: The Gathering",
-        "video_id": "DVgsMgABF4s",
-        "date": "2026-03-27T15:58:27+00:00"
+        "title": "100th Episode Commander Battle w/ Rhystic Studies and Fans! | Shuffle Up & Play Magic: The Gathering",
+        "video_id": "7ow_lP_0GOo",
+        "date": "2026-03-30T16:16:47+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
         "channel_url": "https://www.youtube.com/@kamsandwich",
         "channel_id": "UC2buJRIGgvkpMpaaCyaIqGA",
         "author": "KamSandwich",
         "title": "The Worst Board Game of All Time LIVE Tournament",
         "video_id": "VmoLHW1D2Us",
-        "date": "2026-03-27T19:59:09+00:00"
+        "date": "2026-03-27T19:59:09+00:00",
+        "tags": [
+            "toys and games",
+            "chaotic"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
         "channel_url": "https://www.youtube.com/@marcoomnigamer",
         "channel_id": "UCqjObEZh6BQw2xpgMjPZ7qg",
         "author": "MarcoOmnigamer",
         "title": "Signing off & Thank You!",
         "video_id": "DmOpwi6ROsw",
-        "date": "2025-10-13T01:32:58+00:00"
+        "date": "2025-10-13T01:32:58+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
         "channel_url": "https://www.youtube.com/@Wedelvedeeply",
         "channel_id": "UCQIfzjNGMhdzbHzJQ2jh-lQ",
         "author": "Inside the Box",
         "title": "Marvel Strike Teams - Inside the Box (ITB)",
         "video_id": "ZNLKjlPq3lA",
-        "date": "2020-10-31T13:02:10+00:00"
+        "date": "2020-10-31T13:02:10+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
         "channel_url": "http://www.youtube.com/@jackredathewarp",
         "channel_id": "UCmJ6GCpVC6v_cXXIBatFlsw",
         "author": "Jack Reda - Future Pastimes Games",
         "title": "Dune Designer Discusses Dune 3 Trailer",
         "video_id": "MvXVsvLg_mw",
-        "date": "2026-03-18T17:02:29+00:00"
+        "date": "2026-03-18T17:02:29+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
         "channel_url": "http://www.youtube.com/@Shelfside",
         "channel_id": "UCtT0CIZIXLMlPdQVwmI6RjA",
         "author": "Shelfside",
-        "title": "Reviewing EVERY Exploding Kittens Game of 2025",
-        "video_id": "c2qZLV-kHMU",
-        "date": "2026-03-26T14:30:00+00:00"
+        "title": "Reviewing EVERY Uno at Target",
+        "video_id": "dP7FqhMTOKQ",
+        "date": "2026-03-30T14:30:00+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Boardgames",
         "channel_url": "http://www.youtube.com/@QuestingBeast",
         "channel_id": "UCvYwePdbWSEwUa-Pk02u3Zw",
         "author": "Questing Beast",
         "title": "The TRUTH about running Matt Colville's RPG",
         "video_id": "UTbeWhngiZQ",
-        "date": "2026-03-24T15:18:15+00:00"
+        "date": "2026-03-24T15:18:15+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ],
+        "category": "toys and games"
     },
     {
-        "category": "Fictional Content",
         "channel_url": "http://www.youtube.com/@WorldbuildingNotes",
         "channel_id": "UCncTjqw75krp9j_wRRh5Gvw",
         "author": "Worldbuilding Notes",
         "title": "Story World | Holidays and Gods",
         "video_id": "1b4ZvUT98iY",
-        "date": "2025-07-15T01:00:03+00:00"
+        "date": "2025-07-15T01:00:03+00:00",
+        "tags": [
+            "original animation"
+        ],
+        "category": "original animation"
     },
     {
-        "category": "Fictional Content",
         "channel_url": "http://www.youtube.com/@Worthikids",
         "channel_id": "UCxXu9tCU63mF1ntk89XPkzA",
         "author": "Worthikids",
         "title": "BIGTOP BURGER: HEAVISIDE",
         "video_id": "RCZaxYrKb30",
-        "date": "2025-12-31T22:57:56+00:00"
+        "date": "2025-12-31T22:57:56+00:00",
+        "tags": [
+            "original animation",
+            "favorite"
+        ],
+        "category": "original animation"
     },
     {
-        "category": "Fictional Content",
         "channel_url": "http://www.youtube.com/@homestarrunnerdotcom",
         "channel_id": "UCMkbjxvwur30YrFWw8kpSaw",
         "author": "homestarrunnerdotcom",
         "title": "Strong Bad Email #210 - Robots",
         "video_id": "-zhsNdk1_Vc",
-        "date": "2025-11-24T14:09:52+00:00"
+        "date": "2025-11-24T14:09:52+00:00",
+        "tags": [
+            "original animation"
+        ],
+        "category": "original animation"
     },
     {
-        "category": "Fictional Content",
         "channel_url": "http://www.youtube.com/@monlenz",
         "channel_id": "UCZdrTo_md37z3iogKYrVgCw",
         "author": "Monstergarden",
         "title": "little nightmares 2 2",
         "video_id": "3TGYdwzyZbU",
-        "date": "2026-03-29T12:12:01+00:00"
+        "date": "2026-03-29T12:12:01+00:00",
+        "tags": [
+            "original animation"
+        ],
+        "category": "original animation"
     },
     {
-        "category": "Fictional Content",
         "channel_url": "https://www.youtube.com/@TalesofAlethrion",
         "channel_id": "UCwuALck_lp7LxzQcoskRjbQ",
         "author": "Tales of Alethrion",
         "title": "Christmas and New Year Update + sneak peeks!",
         "video_id": "9T6dlr2NChc",
-        "date": "2026-01-04T19:05:06+00:00"
+        "date": "2026-01-04T19:05:06+00:00",
+        "tags": [
+            "original animation"
+        ],
+        "category": "original animation"
     }
 ]
