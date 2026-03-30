@@ -59,6 +59,12 @@ grouping headers.
 The allowed values for `topic` and `style` are documented in the README. A helper
 script can report rows with non-standard values for an LLM or human to review.
 
+## Editing guidelines
+
+- **Use Edit, not Write, when modifying existing files.** The Write tool regenerates the entire file, which causes arbitrary style drift in surrounding code. The Edit tool only touches the specific strings being changed, keeping the rest byte-identical.
+- **Do not make style-only changes alongside functional changes.** If the user asks for a behavior change, change only the lines needed for that behavior. Do not "clean up" indentation, add semicolons, swap `var` for `let`, reformat whitespace, or make any other cosmetic changes to surrounding code. These pollute diffs and are not reproducible (the specific tweaks vary by conversation context, so they have no principled basis).
+- **Do not propose normalization passes.** "Normalize the code without changing behavior" is an unbounded task for an LLM — the result is always arbitrary. If the user asks for one, suggest using a deterministic formatter instead.
+
 ## TODOs
 
 - [x] Change the GitHub Actions cron schedule to ~3am Central on Saturday (I already did this ages ago. 8am UTC is either 2 or 3 am, Central Time.)
@@ -70,6 +76,7 @@ script can report rows with non-standard values for an LLM or human to review.
   - [ ] Deploy new viewer to test page, verify, then push to posts repo
   - [ ] Remove backwards-compat `category` field from output JSON once both viewers are updated
 - [ ] Add text search to the HTML page (across titles and channels)
+- [ ] Define a display order for tag radio buttons (currently alphabetical; might want a hardcoded order set during generation or a validation/audit step)
 - [ ] Create a tag vocabulary validation script that reports non-standard values
 - [ ] Create an import pipeline: an `imports/` folder where YouTube or NewPipe subscription export CSVs can be dropped, with a script that migrates them into `channel_list.csv`
 - [ ] Add retry logic for failed RSS fetches instead of silently skipping

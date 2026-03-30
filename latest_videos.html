@@ -52,20 +52,14 @@
 <body>
 
 
-<div id="youtube_feeds"></div>
+<fieldset id="tag_filters"></fieldset>
 
-<hr>
-
-
-<details>
-<summary>All channels. Click to expand.</summary>
-<div id="feed_combined" class="youtubeFeed"></div>
-</details>
+<div id="feed_combined"></div>
   
 
 
 <script>
-const channel_groups = new Map();
+var global_channels = [];
 
 fetch('latest_videos.json')
   .then(response => response.json())
@@ -73,40 +67,27 @@ fetch('latest_videos.json')
   });
 
 function process_channels(channels) {
-  // Group the channels by category.
-  channels.forEach(channel => {
-    if (channel_groups.has(channel.category)) {
-      channel_groups.get(channel.category).push(channel);
-    } else {
-      channel_groups.set(channel.category, [channel]);
-    }
-  });
+  global_channels = channels;
 
-  // Sort each category by date.
-  channel_groups.forEach((category_channels, category) => {
-    category_channels.sort(channel_date_sorter);
-  });
+  // Previously, I created a header and sorted feed for each category
+  // Now I skip to the combined feed. 
 
-  // Create a header and feed for each category.
-  feed_div = document.getElementById('youtube_feeds');
-  channel_groups.forEach((category_channels, category) => { // When using forEach on a Map, parameters are value,key,map.
-    // Header
-    category_header = document.createElement('h3');
-    category_header.textContent = category;
-    feed_div.appendChild(category_header);
-    // Feed
-    category_feed = document.createElement('div');
-    category_channels.forEach(channel => {
-      category_feed.appendChild(create_video_block(channel));
-    });
-    feed_div.appendChild(category_feed);
-  });
-
-  // Finally, do the process again for the giant combined feed. 
+  // Populate the entire feed
   channels.sort(channel_date_sorter);
   channels.forEach(channel => {
     document.getElementById('feed_combined').appendChild(create_video_block(channel));
   });
+  
+  // Collect all unique tags and build radio buttons.
+  tags = [...new Set(channels.flatMap(c => c.tags || []))].sort(); //list of set of lists
+  tags.unshift('all'); // Add 'all' as the first tag
+  tags.forEach(tag => {
+    document.getElementById('tag_filters').appendChild(create_tag_selector(tag));
+  });
+
+  // Filter to showing favorites by default.
+  document.getElementById('tag_filters').querySelector('input[value="favorite"]').checked = true;
+  filter_by_tag('favorite');
 }
 
 function create_video_block(channel) {
@@ -119,12 +100,32 @@ video_block.innerHTML = `
       <div class="metadata">${channel.author} - ${channel.date.slice(0, 10)}</div>
   </a>
 `;
+channel.element = video_block;
 return video_block;
 }
 
+function create_tag_selector(tag) {
+  // This creates a radio button with an onclick event that filters by the tag.
+  tag_selector = document.createElement('label');
+  tag_selector.className = 'tagSelector';
+  tag_selector.innerHTML = `
+    <input type="radio" name="tag_radio" value="${tag}" onclick="filter_by_tag('${tag}')">
+    ${tag.charAt(0).toUpperCase() + tag.slice(1)}`; // title case the tag for display
+  return tag_selector;
+}
 
 function channel_date_sorter (a,b) {
     return new Date(b.date) - new Date(a.date);
+}
+
+function filter_by_tag(tag) {
+  global_channels.forEach(channel => {
+    if (tag === 'all' || (channel.tags || []).includes(tag)) {
+      channel.element.style.display = '';
+    } else {
+      channel.element.style.display = 'none';
+    }
+  });
 }
 
 </script>
