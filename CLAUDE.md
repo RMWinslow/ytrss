@@ -61,9 +61,10 @@ script can report rows with non-standard values for an LLM or human to review.
 
 ## Editing guidelines
 
-- **Use Edit, not Write, when modifying existing files.** The Write tool regenerates the entire file, which causes arbitrary style drift in surrounding code. The Edit tool only touches the specific strings being changed, keeping the rest byte-identical.
-- **Do not make style-only changes alongside functional changes.** If the user asks for a behavior change, change only the lines needed for that behavior. Do not "clean up" indentation, add semicolons, swap `var` for `let`, reformat whitespace, or make any other cosmetic changes to surrounding code. These pollute diffs and are not reproducible (the specific tweaks vary by conversation context, so they have no principled basis).
-- **Do not propose normalization passes.** "Normalize the code without changing behavior" is an unbounded task for an LLM — the result is always arbitrary. If the user asks for one, suggest using a deterministic formatter instead.
+Good diffs are easy to review. When changing functionality, an expert coder makes carefully considered, minimal edits — touching only the lines that serve the goal. When reformatting or restyling, those changes get their own dedicated pass with no functional changes mixed in. These two kinds of work stay in separate commits.
+
+- **Prefer the Edit tool over Write** for modifying existing files. Edit targets specific strings and keeps surrounding code byte-identical.
+- **Delegate style enforcement to deterministic formatters** (Prettier, ESLint, etc.) rather than making ad-hoc style adjustments by hand. A formatter produces consistent, reproducible results; manual tweaks vary by context.
 
 ## TODOs
 
