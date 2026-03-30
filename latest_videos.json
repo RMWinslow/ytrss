@@ -1,5 +1,9 @@
 [
     {
+        "category": "history / geography",
+        "topic": "history / geography",
+        "style": "walkabout",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@DimeStoreAdventures",
         "channel_id": "UCUMQFUkgaEE68_ujIdW2wAw",
         "author": "Dime Store Adventures",
@@ -10,10 +14,13 @@
             "history / geography",
             "walkabout",
             "favorite"
-        ],
-        "category": "history / geography"
+        ]
     },
     {
+        "category": "",
+        "topic": "",
+        "style": "walkabout",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TomScottGo",
         "channel_id": "UCBa659QWEk1AI4Tg--mrJ2A",
         "author": "Tom Scott",
@@ -22,10 +29,13 @@
         "date": "2026-03-30T15:00:30+00:00",
         "tags": [
             "walkabout"
-        ],
-        "category": ""
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "walkabout",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@AtomicFrontier",
         "channel_id": "UCbCq5Y0WPGimG2jNXhoQxGw",
         "author": "Atomic Frontier",
@@ -35,10 +45,13 @@
         "tags": [
             "physical science",
             "walkabout"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "history / geography",
+        "topic": "history / geography",
+        "style": "walkabout",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@JayForeman",
         "channel_id": "UCbbQalJ4OaC0oQ0AqRaOJ9g",
         "author": "Jay and Mark",
@@ -49,10 +62,13 @@
             "history / geography",
             "walkabout",
             "favorite"
-        ],
-        "category": "history / geography"
+        ]
     },
     {
+        "category": "history / geography",
+        "topic": "history / geography",
+        "style": "walkabout",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@TheTimTraveller",
         "channel_id": "UC2LVhJH_9cT2XKp0VAfsKOQ",
         "author": "The Tim Traveller",
@@ -63,10 +79,13 @@
             "history / geography",
             "walkabout",
             "favorite"
-        ],
-        "category": "history / geography"
+        ]
     },
     {
+        "category": "history / geography",
+        "topic": "history / geography",
+        "style": "walkabout",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@RobWords",
         "channel_id": "UC4a9LfdavRlVMaSSWFdIciA",
         "author": "RobWords",
@@ -77,10 +96,13 @@
             "history / geography",
             "walkabout",
             "favorite"
-        ],
-        "category": "history / geography"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@3blue1brown",
         "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
         "author": "3Blue1Brown",
@@ -90,10 +112,13 @@
         "tags": [
             "math",
             "favorite"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@numberphile",
         "channel_id": "UCoxcjq-8xIDTYp3uz647V5A",
         "author": "Numberphile",
@@ -103,10 +128,13 @@
         "tags": [
             "math",
             "talking head"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@standupmaths",
         "channel_id": "UCSju5G2aFaWMqn-_0YBtq5A",
         "author": "Stand-up Maths",
@@ -116,10 +144,13 @@
         "tags": [
             "math",
             "talking head"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Reducible",
         "channel_id": "UCK8XIGR5kRidIw2fWqwyHRA",
         "author": "Reducible",
@@ -128,10 +159,13 @@
         "date": "2024-07-27T01:04:19+00:00",
         "tags": [
             "math"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@henryseg",
         "channel_id": "UC4zzTEL5tuIgGMvzjk1Ozbg",
         "author": "Henry Segerman",
@@ -141,10 +175,13 @@
         "tags": [
             "math",
             "show and tell"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@upandatom",
         "channel_id": "UCSIvk78tK2TiviLQn4fSHaw",
         "author": "Up and Atom",
@@ -154,10 +191,13 @@
         "tags": [
             "math",
             "talking head"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@GeorgeHart-math",
         "channel_id": "UCTl0dASnxto6j2wlVs5Bs2Q",
         "author": "George Hart",
@@ -167,10 +207,13 @@
         "tags": [
             "math",
             "show and tell"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@tibees",
         "channel_id": "UC52kszkc08-acFOuogFl5jw",
         "author": "Tibees",
@@ -180,10 +223,13 @@
         "tags": [
             "math",
             "talking head"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@chalktalkmath/",
         "channel_id": "UCUv35okF8MSo2dFQx5LrNmA",
         "author": "Chalk Talk",
@@ -192,10 +238,13 @@
         "date": "2025-09-02T17:26:31+00:00",
         "tags": [
             "math"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "review",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@RedLetterMedia",
         "channel_id": "UCrTNhL_yO3tPTdQ5XgmmWjA",
         "author": "RedLetterMedia",
@@ -205,10 +254,13 @@
         "tags": [
             "media / pop culture",
             "review"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@CaptainDisillusion",
         "channel_id": "UCEOXxzW2vU0P-0THehuIIeg",
         "author": "Captain Disillusion",
@@ -217,10 +269,13 @@
         "date": "2025-07-09T17:23:48+00:00",
         "tags": [
             "media / pop culture"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@JennyNicholson",
         "channel_id": "UC7-E5xhZBZdW-8d7V80mzfg",
         "author": "Jenny Nicholson",
@@ -230,10 +285,13 @@
         "tags": [
             "media / pop culture",
             "talking head"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "talking head",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@RealVirtualFrog",
         "channel_id": "UCZXAVdAplsu1tFZ9OqQhJFg",
         "author": "Virtual Frog",
@@ -244,10 +302,13 @@
             "media / pop culture",
             "talking head",
             "favorite"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@any_austin",
         "channel_id": "UCH_7doiCkWeq0v3ycWE5lDw",
         "author": "Any Austin",
@@ -257,10 +318,13 @@
         "tags": [
             "media / pop culture",
             "talking head"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@JillBearup",
         "channel_id": "UCRrvZqCL1YsqRA8IpXrhYQQ",
         "author": "Jill Bearup",
@@ -270,10 +334,13 @@
         "tags": [
             "media / pop culture",
             "talking head"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "history / geography",
+        "topic": "history / geography",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@lindybeige",
         "channel_id": "UC9pgQfOXRsp4UKrI8q0zjXQ",
         "author": "Lindybeige",
@@ -283,10 +350,13 @@
         "tags": [
             "history / geography",
             "talking head"
-        ],
-        "category": "history / geography"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@LetsGameItOut",
         "channel_id": "UCto7D1L-MiRoOziCXK9uT5Q",
         "author": "Let's Game It Out",
@@ -296,10 +366,13 @@
         "tags": [
             "media / pop culture",
             "chaotic"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@DougDoug",
         "channel_id": "UClyGlKOhDUooPJFy4v_mqPg",
         "author": "DougDoug",
@@ -309,10 +382,13 @@
         "tags": [
             "media / pop culture",
             "talking head"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Danny-Gonzalez",
         "channel_id": "UCSUf5_EPEfl4zlBKZHkZdmw",
         "author": "Danny Gonzalez",
@@ -322,10 +398,13 @@
         "tags": [
             "media / pop culture",
             "talking head"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@drewisgooden",
         "channel_id": "UCTSRIY3GLFYIpkR2QwyeklA",
         "author": "Drew Gooden",
@@ -335,10 +414,13 @@
         "tags": [
             "media / pop culture",
             "talking head"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "food",
+        "topic": "food",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@aragusea",
         "channel_id": "UC9_p50tH3WmMslWRWKnM7dQ",
         "author": "Adam Ragusea",
@@ -348,10 +430,13 @@
         "tags": [
             "food",
             "talking head"
-        ],
-        "category": "food"
+        ]
     },
     {
+        "category": "food",
+        "topic": "food",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TastingHistory",
         "channel_id": "UCsaGKqPZnGp_7N80hcHySGQ",
         "author": "Tasting History with Max Miller",
@@ -361,22 +446,28 @@
         "tags": [
             "food",
             "talking head"
-        ],
-        "category": "food"
+        ]
     },
     {
+        "category": "food",
+        "topic": "food",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@babishculinaryuniverse",
         "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
         "author": "Binging with Babish",
-        "title": "This potato salad took 3 days to make...",
-        "video_id": "lhVpIkWinD0",
-        "date": "2026-03-30T19:00:29+00:00",
+        "title": "You don't need a fancy food processor for every recipe!",
+        "video_id": "VigX--VQ3KM",
+        "date": "2026-03-30T21:00:24+00:00",
         "tags": [
             "food"
-        ],
-        "category": "food"
+        ]
     },
     {
+        "category": "food",
+        "topic": "food",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@foodwishes",
         "channel_id": "UCRIZtPl9nb9RiXc9btSTQNw",
         "author": "Food Wishes",
@@ -385,10 +476,13 @@
         "date": "2026-03-25T17:35:32+00:00",
         "tags": [
             "food"
-        ],
-        "category": "food"
+        ]
     },
     {
+        "category": "food",
+        "topic": "food",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@OrdinarySausage",
         "channel_id": "UCJLKwTg0IaSMoq6hLHT3CAA",
         "author": "Ordinary Sausage",
@@ -398,10 +492,13 @@
         "tags": [
             "food",
             "chaotic"
-        ],
-        "category": "food"
+        ]
     },
     {
+        "category": "food",
+        "topic": "food",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@townsends",
         "channel_id": "UCxr2d4As312LulcajAkKJYw",
         "author": "Townsends",
@@ -410,10 +507,13 @@
         "date": "2026-03-29T13:00:33+00:00",
         "tags": [
             "food"
-        ],
-        "category": "food"
+        ]
     },
     {
+        "category": "fans",
+        "topic": "fans",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@matthiasrandomstuff2221",
         "channel_id": "UC3_AWXcf2K3l9ILVuQe-XwQ",
         "author": "Matthias random stuff",
@@ -422,10 +522,13 @@
         "date": "2026-03-25T13:25:16+00:00",
         "tags": [
             "fans"
-        ],
-        "category": "fans"
+        ]
     },
     {
+        "category": "fans",
+        "topic": "fans",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@MajorHardware",
         "channel_id": "UCUXW4gT27TOaDzKFyN-1tXQ",
         "author": "Major Hardware",
@@ -434,10 +537,13 @@
         "date": "2026-03-15T19:57:18+00:00",
         "tags": [
             "fans"
-        ],
-        "category": "fans"
+        ]
     },
     {
+        "category": "fans",
+        "topic": "fans",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ThinkingandTinkering",
         "channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
         "author": "Robert Murray-Smith",
@@ -446,10 +552,13 @@
         "date": "2025-10-07T20:10:01+00:00",
         "tags": [
             "fans"
-        ],
-        "category": "fans"
+        ]
     },
     {
+        "category": "fans",
+        "topic": "fans",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TnTOmnibus",
         "channel_id": "UC1E8OmOG17VckoPviOPmkMw",
         "author": "TNT Omnibus",
@@ -458,10 +567,13 @@
         "date": "2025-09-11T13:15:59+00:00",
         "tags": [
             "fans"
-        ],
-        "category": "fans"
+        ]
     },
     {
+        "category": "fans",
+        "topic": "fans",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@bigclivedotcom",
         "channel_id": "UCtM5z2gkrGRuWd0JQMx76qA",
         "author": "bigclivedotcom",
@@ -471,10 +583,13 @@
         "tags": [
             "fans",
             "show and tell"
-        ],
-        "category": "fans"
+        ]
     },
     {
+        "category": "fans",
+        "topic": "fans",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@PlasmaChannel",
         "channel_id": "UCg45A-ph7Eu8jQgfrwDkHLg",
         "author": "Plasma Channel",
@@ -483,10 +598,13 @@
         "date": "2026-03-13T20:01:00+00:00",
         "tags": [
             "fans"
-        ],
-        "category": "fans"
+        ]
     },
     {
+        "category": "history / geography",
+        "topic": "history / geography",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ObjectivityVideos",
         "channel_id": "UCtwKon9qMt5YLVgQt1tvJKg",
         "author": "Objectivity",
@@ -496,10 +614,13 @@
         "tags": [
             "history / geography",
             "show and tell"
-        ],
-        "category": "history / geography"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ashens",
         "channel_id": "UCxt9Pvye-9x_AIcb1UtmF1Q",
         "author": "ashens",
@@ -509,10 +630,13 @@
         "tags": [
             "media / pop culture",
             "show and tell"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@grandillusions",
         "channel_id": "UCnmgSO_4g6QcRzy0yFeglyA",
         "author": "Grand Illusions",
@@ -522,10 +646,13 @@
         "tags": [
             "toys and games",
             "show and tell"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "social science",
+        "topic": "social science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@JJMcCullough",
         "channel_id": "UCyhOl6uRlxryALlT5yifldw",
         "author": "J.J. McCullough",
@@ -535,10 +662,13 @@
         "tags": [
             "social science",
             "talking head"
-        ],
-        "category": "social science"
+        ]
     },
     {
+        "category": "tech",
+        "topic": "tech",
+        "style": "",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@PosyMusic",
         "channel_id": "UCmEmX_jw_pRp5UbAdzkZq-g",
         "author": "Posy",
@@ -548,10 +678,13 @@
         "tags": [
             "tech",
             "favorite"
-        ],
-        "category": "tech"
+        ]
     },
     {
+        "category": "tech",
+        "topic": "tech",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@lazyposy",
         "channel_id": "UCfZwJg0C0P-xX7BicmwVKqw",
         "author": "Lazy Posy",
@@ -560,10 +693,13 @@
         "date": "2026-01-24T10:01:05+00:00",
         "tags": [
             "tech"
-        ],
-        "category": "tech"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@mitxela",
         "channel_id": "UCeEf90AEmmxaQs5BUkHqR3Q",
         "author": "mitxela",
@@ -572,10 +708,13 @@
         "date": "2026-02-28T14:16:56+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "history / geography",
+        "topic": "history / geography",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ObjectHistory",
         "channel_id": "UC7hlBf8aKs1OFNWEdWsveFA",
         "author": "Object History",
@@ -585,10 +724,13 @@
         "tags": [
             "history / geography",
             "show and tell"
-        ],
-        "category": "history / geography"
+        ]
     },
     {
+        "category": "tech",
+        "topic": "tech",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@DankPods",
         "channel_id": "UC7Jwj9fkrf1adN4fMmTkpug",
         "author": "DankPods",
@@ -598,10 +740,13 @@
         "tags": [
             "tech",
             "show and tell"
-        ],
-        "category": "tech"
+        ]
     },
     {
+        "category": "tech",
+        "topic": "tech",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Games_for_James",
         "channel_id": "UCx6cailiCkg_mlMM7JX5yfA",
         "author": "James Channel",
@@ -611,10 +756,13 @@
         "tags": [
             "tech",
             "show and tell"
-        ],
-        "category": "tech"
+        ]
     },
     {
+        "category": "tech",
+        "topic": "tech",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Techmoan",
         "channel_id": "UC5I2hjZYiW9gZPVkvzM8_Cw",
         "author": "Techmoan",
@@ -624,10 +772,13 @@
         "tags": [
             "tech",
             "show and tell"
-        ],
-        "category": "tech"
+        ]
     },
     {
+        "category": "tech",
+        "topic": "tech",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TechnologyConnections",
         "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
         "author": "Technology Connections",
@@ -637,10 +788,13 @@
         "tags": [
             "tech",
             "talking head"
-        ],
-        "category": "tech"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@StarTalk",
         "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
         "author": "StarTalk",
@@ -650,10 +804,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@astropro1",
         "channel_id": "UCDW13ycIiHcl4QVN-YwVy0w",
         "author": "Archive Dive",
@@ -663,10 +820,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@astrumspace",
         "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
         "author": "Astrum",
@@ -676,10 +836,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@pbsspacetime",
         "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
         "author": "PBS Space Time",
@@ -689,10 +852,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@whatdamath",
         "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
         "author": "Anton Petrov",
@@ -702,10 +868,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@AmyShiraTeitel",
         "channel_id": "UCw95T_TgbGHhTml4xZ9yIqg",
         "author": "The Vintage Space",
@@ -715,10 +884,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@acollierastro",
         "channel_id": "UCtscFf8VayggrDYjOwDke_Q",
         "author": "Angela Collier ",
@@ -728,10 +900,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@MinuteEarth",
         "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
         "author": "MinuteEarth",
@@ -740,10 +915,13 @@
         "date": "2026-03-26T17:15:02+00:00",
         "tags": [
             "physical science"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@veritasium",
         "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
         "author": "Veritasium",
@@ -753,10 +931,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@PracticalEngineeringChannel",
         "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
         "author": "Practical Engineering",
@@ -766,10 +947,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@smartereveryday",
         "channel_id": "UC6107grRI4m0o2-emgoDnAA",
         "author": "SmarterEveryDay",
@@ -779,10 +963,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@SteveMould",
         "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
         "author": "Steve Mould",
@@ -792,10 +979,13 @@
         "tags": [
             "physical science",
             "show and tell"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@engineerguyvideo",
         "channel_id": "UC2bkHVIDjXS7sgrgjFtzOXQ",
         "author": "engineerguy",
@@ -805,10 +995,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@SabineHossenfelder",
         "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
         "author": "Sabine Hossenfelder",
@@ -818,10 +1011,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@MinutePhysics",
         "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
         "author": "minutephysics",
@@ -830,10 +1026,13 @@
         "date": "2026-03-21T17:00:00+00:00",
         "tags": [
             "physical science"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@physicsforthebirds",
         "channel_id": "UCeXksuVW8H1x9v4gh7DWoyQ",
         "author": "Physics for the Birds",
@@ -843,10 +1042,13 @@
         "tags": [
             "physical science",
             "favorite"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@periodicvideos",
         "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
         "author": "Periodic Videos",
@@ -856,10 +1058,13 @@
         "tags": [
             "physical science",
             "show and tell"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Thoisoi2",
         "channel_id": "UC3j3w-oUtIAm_KI857ydvUA",
         "author": "Thoisoi2 - Chemical Experiments!",
@@ -869,23 +1074,13 @@
         "tags": [
             "physical science",
             "show and tell"
-        ],
-        "category": "physical science"
+        ]
     },
     {
-        "channel_url": "http://www.youtube.com/@illinoisenergyprof6878",
-        "channel_id": "UCKH_iLhhkTyt8Dk4dmeCQ9w",
-        "author": "Illinois EnergyProf",
-        "title": "The Uranium Supply Chain",
-        "video_id": "Tb9LCqDqX4s",
-        "date": "2025-11-11T16:44:44+00:00",
-        "tags": [
-            "physical science",
-            "talking head"
-        ],
-        "category": "physical science"
-    },
-    {
+        "category": "social science",
+        "topic": "social science",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@CGPGrey",
         "channel_id": "UC2C_jShtL725hvbm1arSV9w",
         "author": "CGP Grey",
@@ -894,10 +1089,13 @@
         "date": "2025-04-14T19:47:51+00:00",
         "tags": [
             "social science"
-        ],
-        "category": "social science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@kylehill",
         "channel_id": "UCFbtcTaMFnOAP0pFO1L8hVw",
         "author": "Kyle Hill",
@@ -907,10 +1105,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TheActionLab",
         "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
         "author": "The Action Lab",
@@ -920,10 +1121,13 @@
         "tags": [
             "physical science",
             "show and tell"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "",
+        "topic": "",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TheDoctorsBjorkman",
         "channel_id": "UCKwQjav6uPCFPIDL6SXjNqQ",
         "author": "The Doctors Bjorkman",
@@ -932,10 +1136,13 @@
         "date": "2026-03-29T16:03:10+00:00",
         "tags": [
             "talking head"
-        ],
-        "category": ""
+        ]
     },
     {
+        "category": "social science",
+        "topic": "social science",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@econimate",
         "channel_id": "UCV7OupzIpYe9oIn_QSlyfJw",
         "author": "econimate",
@@ -944,10 +1151,13 @@
         "date": "2026-03-17T13:58:35+00:00",
         "tags": [
             "social science"
-        ],
-        "category": "social science"
+        ]
     },
     {
+        "category": "math",
+        "topic": "math",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@KieranBorovac",
         "channel_id": "UCWul-fy84WOBE_YMcw7uJ9w",
         "author": "Kieran Borovac",
@@ -956,10 +1166,13 @@
         "date": "2023-02-11T18:05:28+00:00",
         "tags": [
             "math"
-        ],
-        "category": "math"
+        ]
     },
     {
+        "category": "tech",
+        "topic": "tech",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@BennJordan",
         "channel_id": "UCshObcm-nLhbu8MY50EZ5Ng",
         "author": "Benn Jordan",
@@ -968,10 +1181,13 @@
         "date": "2026-03-24T18:49:51+00:00",
         "tags": [
             "tech"
-        ],
-        "category": "tech"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@AlphaPhoenixChannel",
         "channel_id": "UCCWeRTgd79JL0ilH0ZywSJA",
         "author": "AlphaPhoenix",
@@ -980,10 +1196,13 @@
         "date": "2026-03-24T00:57:10+00:00",
         "tags": [
             "physical science"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@sirrandalot",
         "channel_id": "UCNq1BjOvgnPx596ddBE3wZQ",
         "author": "sirrandalot",
@@ -992,10 +1211,13 @@
         "date": "2024-04-01T13:56:38+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "social science",
+        "topic": "social science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@MoneyMacro",
         "channel_id": "UCCKpicnIwBP3VPxBAZWDeNA",
         "author": "Money & Macro",
@@ -1005,10 +1227,13 @@
         "tags": [
             "social science",
             "talking head"
-        ],
-        "category": "social science"
+        ]
     },
     {
+        "category": "social science",
+        "topic": "social science",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TheEconomist",
         "channel_id": "UC0p5jTq6Xx_DosDFxVXnWaQ",
         "author": "The Economist",
@@ -1017,10 +1242,13 @@
         "date": "2026-03-30T10:11:07+00:00",
         "tags": [
             "social science"
-        ],
-        "category": "social science"
+        ]
     },
     {
+        "category": "physical science",
+        "topic": "physical science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Physics4Life",
         "channel_id": "UCHa0gEhM-eCT6a0B1w_ZVrw",
         "author": "Physics4Life",
@@ -1030,10 +1258,13 @@
         "tags": [
             "physical science",
             "talking head"
-        ],
-        "category": "physical science"
+        ]
     },
     {
+        "category": "social science",
+        "topic": "social science",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ibx2cat",
         "channel_id": "UCJVnko6tQ56PYB5BNNChPGg",
         "author": "ibx2cat",
@@ -1043,10 +1274,13 @@
         "tags": [
             "social science",
             "talking head"
-        ],
-        "category": "social science"
+        ]
     },
     {
+        "category": "media / pop culture",
+        "topic": "media / pop culture",
+        "style": "",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@FractalPhilosophy",
         "channel_id": "UCDRhoKKIzUZrJPzLCHo9s-w",
         "author": "Fractal Philosophy",
@@ -1055,10 +1289,13 @@
         "date": "2026-03-03T13:00:41+00:00",
         "tags": [
             "media / pop culture"
-        ],
-        "category": "media / pop culture"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "walkabout",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@JoePeraComedy/",
         "channel_id": "UCfBAKxelvdN2XDFBcofx7Dg",
         "author": "Joe Pera",
@@ -1068,10 +1305,13 @@
         "tags": [
             "comedy",
             "walkabout"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@JennaMarbles",
         "channel_id": "UC9gFih9rw0zNCK3ZtoKQQyA",
         "author": "JennaMarbles",
@@ -1081,23 +1321,29 @@
         "tags": [
             "comedy",
             "talking head"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TheAuntyDonnaChannel",
         "channel_id": "UC_mneEC0wc29EGGmIsN_xLA",
         "author": "Aunty Donna",
-        "title": "Broden channelled Kath Day-Knight for his winter \u2018lympics look",
-        "video_id": "BbTAgWxhytc",
-        "date": "2026-03-28T23:00:00+00:00",
+        "title": "Do u do cocktails little girl? #auntydonna",
+        "video_id": "epITSXk8oR4",
+        "date": "2026-03-30T20:30:00+00:00",
         "tags": [
             "comedy",
             "chaotic"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TheDragonsTomb",
         "channel_id": "UC3izYCSBcfi2LfdIr-qg0gQ",
         "author": "The Dragon's Tomb",
@@ -1107,10 +1353,13 @@
         "tags": [
             "toys and games",
             "chaotic"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TheAlexErnstShow",
         "channel_id": "UCWk68Uw6V990fjnTbcOHeoA",
         "author": "Alex Ernst",
@@ -1120,10 +1369,13 @@
         "tags": [
             "comedy",
             "talking head"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "musical",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@billwurtz",
         "channel_id": "UCq6aw03lNILzV96UvEAASfQ",
         "author": "bill wurtz",
@@ -1133,10 +1385,13 @@
         "tags": [
             "comedy",
             "musical"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "musical",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@RyansShorts",
         "channel_id": "UC6yeqgmyqhDyMPzE4wwxQig",
         "author": "Ryan's Shorts",
@@ -1146,10 +1401,13 @@
         "tags": [
             "comedy",
             "musical"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "musical",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@briandavidgilbert",
         "channel_id": "UCakAg8hC_RFJm4RI3DlD7SA",
         "author": "brian david gilbert",
@@ -1159,10 +1417,13 @@
         "tags": [
             "comedy",
             "musical"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "musical",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Lord_Vinheteiro",
         "channel_id": "UCSE6yilNScIz1SLTNQvrXMw",
         "author": "Vinheteiro",
@@ -1172,10 +1433,13 @@
         "tags": [
             "comedy",
             "musical"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Mattiaskrantz",
         "channel_id": "UCEgm-3RvRn4nCR-fGGVsfdQ",
         "author": "Mattias Krantz",
@@ -1185,10 +1449,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "musical",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@SethEverman",
         "channel_id": "UCoNRSwYHJdy-yV1b82ZdHfQ",
         "author": "SethEverman",
@@ -1198,10 +1465,13 @@
         "tags": [
             "comedy",
             "musical"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "comedy",
+        "topic": "comedy",
+        "style": "",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@SaturdayNightLive",
         "channel_id": "UCqFzWxSCi39LnW1JKFR3efg",
         "author": "Saturday Night Live",
@@ -1210,10 +1480,13 @@
         "date": "2026-03-25T20:00:30+00:00",
         "tags": [
             "comedy"
-        ],
-        "category": "comedy"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@BenGThomas",
         "channel_id": "UCDSzwZqgtJEnUzacq3ddoOQ",
         "author": "Ben G Thomas",
@@ -1223,10 +1496,13 @@
         "tags": [
             "animals and biology",
             "talking head"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TREYtheExplainer",
         "channel_id": "UCOuWeOkMrq84u5LY6apWQ8Q",
         "author": "TREY the Explainer",
@@ -1236,10 +1512,13 @@
         "tags": [
             "animals and biology",
             "talking head"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@eons",
         "channel_id": "UCzR-rom72PHN9Zg7RML9EbA",
         "author": "PBS Eons",
@@ -1248,10 +1527,13 @@
         "date": "2026-03-26T16:15:01+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TierZoo",
         "channel_id": "UCHsRtomD4twRf5WVHHk-cMw",
         "author": "TierZoo",
@@ -1260,10 +1542,13 @@
         "date": "2026-03-24T02:56:40+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@SallyLePage",
         "channel_id": "UC9AUeAvdEVJfyS9rd9pvp8g",
         "author": "Sally Le Page",
@@ -1273,10 +1558,13 @@
         "tags": [
             "animals and biology",
             "talking head"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@zefrank",
         "channel_id": "UCVpankR4HtoAVtYnFDUieYA",
         "author": "Ze Frank",
@@ -1285,10 +1573,13 @@
         "date": "2026-03-14T18:54:30+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@KQEDDeepLook",
         "channel_id": "UC-3SbfTPJsL8fJAPKiVqBLg",
         "author": "Deep Look",
@@ -1297,10 +1588,13 @@
         "date": "2026-03-25T16:01:24+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@EVNautilus",
         "channel_id": "UC1KOOWHthbQVXH2kZue3_xA",
         "author": "EVNautilus",
@@ -1309,10 +1603,13 @@
         "date": "2026-03-27T19:00:14+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@BizarreBeasts",
         "channel_id": "UC9Lp_AA5M2cMGrlvnnIns-g",
         "author": "Bizarre Beasts",
@@ -1322,10 +1619,13 @@
         "tags": [
             "animals and biology",
             "talking head"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "walkabout",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@cmkosemen",
         "channel_id": "UCMy7mRjghOxB8h3nv60SU4w",
         "author": "cmkosemen",
@@ -1335,10 +1635,13 @@
         "tags": [
             "animals and biology",
             "walkabout"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@HistoryoftheEarth",
         "channel_id": "UC_aOteuWIY8ITg7DQQspG1g",
         "author": "History of the Earth",
@@ -1347,10 +1650,13 @@
         "date": "2025-10-30T22:50:10+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ClintsReptiles",
         "channel_id": "UCH18915fTE6yZzKrqdea8RQ",
         "author": "Clint's Reptiles",
@@ -1360,23 +1666,13 @@
         "tags": [
             "animals and biology",
             "talking head"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
-        "channel_url": "http://www.youtube.com/@AronRa",
-        "channel_id": "UCAJfDidJyukTekgSRZrjadw",
-        "author": "AronRa",
-        "title": "At the \"No Kings\" rally",
-        "video_id": "sUUOXTytV9A",
-        "date": "2026-03-30T07:22:02+00:00",
-        "tags": [
-            "animals and biology",
-            "talking head"
-        ],
-        "category": "animals and biology"
-    },
-    {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@journeytomicro",
         "channel_id": "UCBbnbBWJtwsf0jLGUwX5Q3g",
         "author": "Journey to the Microcosmos",
@@ -1385,10 +1681,13 @@
         "date": "2024-10-28T14:00:20+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Phrenotopia",
         "channel_id": "UCO-8Osf4S3N0m7u1NivTfeg",
         "author": "Phrenotopia",
@@ -1397,10 +1696,13 @@
         "date": "2025-08-09T21:00:06+00:00",
         "tags": [
             "animals and biology"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@octolabtv1168",
         "channel_id": "UCNo_xQ7NvTr31naPAcjQWjg",
         "author": "Octolab TV",
@@ -1410,10 +1712,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@KOTARO_OTTER",
         "channel_id": "UCDYyCQAk60CqabvkL5gU3Mw",
         "author": "KOTSUMET",
@@ -1423,10 +1728,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@NinjaFrog777",
         "channel_id": "UCrJH2Wy7PmCiitXKJ21yh4w",
         "author": "Ninja Frog",
@@ -1436,10 +1744,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@cruiser1228",
         "channel_id": "UCWIxPuO_0emPbma8UlOc3JQ",
         "author": "Cruiser",
@@ -1449,10 +1760,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@cherylb4420",
         "channel_id": "UCpjhDz9Sqn-6h1ZwtvUiA2g",
         "author": "Cheryl B",
@@ -1462,10 +1776,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Mr.Frog.",
         "channel_id": "UCWUH_hdDfzi98i3clGbh_Ww",
         "author": "Mr. Frog",
@@ -1475,10 +1792,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@HomuraHam",
         "channel_id": "UCKwcMBhbzQXgSM1T3TvHmiA",
         "author": "Homura Ham",
@@ -1488,10 +1808,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@TheUrbanRescueRanch",
         "channel_id": "UCv3mh2P-q3UCtR9-2q8B-ZA",
         "author": "The Urban Rescue Ranch",
@@ -1501,10 +1824,29 @@
         "tags": [
             "animals and biology",
             "chaotic"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
+        "channel_url": "http://www.youtube.com/@LOUTRE",
+        "channel_id": "UCz6yuUg6N0iRiFhCLmXrNJQ",
+        "author": "LOUTRE",
+        "title": "\u4eca\u65e5\u306f\u30d4\u30af\u30cb\u30c3\u30af\u65e5\u548c\u3067\u3057\u305f\ud83c\udf38 #shorts",
+        "video_id": "9MjAqiMQuN0",
+        "date": "2026-03-30T13:55:35+00:00",
+        "tags": [
+            "animals and biology",
+            "slice of life"
+        ]
+    },
+    {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Bradybrandwood",
         "channel_id": "UCj2Eeg01Mn5WmcXxt695fUg",
         "author": "Brady Brandwood",
@@ -1514,10 +1856,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@FOBBVCAM",
         "channel_id": "UCsFgbVuhRrPV5FqyN7kOD8g",
         "author": "FOBBV CAM",
@@ -1527,10 +1872,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@wrinkletheduck",
         "channel_id": "UCPPjuJTt9jiOZNHScvEmvRg",
         "author": "seDUCKtive",
@@ -1540,10 +1888,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ApolloandFrens",
         "channel_id": "UCnUdaxbBMPQ9o9KVz7Oa6eQ",
         "author": "Apollo and Frens",
@@ -1553,10 +1904,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@davidmbird",
         "channel_id": "UC6q7I1DD2Jv5Ur9UEIavIrA",
         "author": "Becorns | David M Bird",
@@ -1566,10 +1920,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@LesleytheBirdNerd",
         "channel_id": "UCDjdXwT-KrFPsqOSg4KL8Nw",
         "author": "Lesley the Bird Nerd",
@@ -1579,10 +1936,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@MyBackyardBirding",
         "channel_id": "UCcNyzOCKvyMBaA4iQVgO9EQ",
         "author": "MyBackyardBirding",
@@ -1592,10 +1952,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "animals and biology",
+        "topic": "animals and biology",
+        "style": "slice of life",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@OctopusLady",
         "channel_id": "UC8_YhCUr_HRsLAtSddGeFcw",
         "author": "The Octopus Lady",
@@ -1605,10 +1968,13 @@
         "tags": [
             "animals and biology",
             "slice of life"
-        ],
-        "category": "animals and biology"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "favorite",
         "channel_url": "https://www.youtube.com/@williamosman",
         "channel_id": "UCfMJ2MchTSW2kWaT0kK94Yw",
         "author": "William Osman",
@@ -1619,10 +1985,13 @@
             "making things",
             "chaotic",
             "favorite"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@MichaelReeves",
         "channel_id": "UCtHaxi4GTYDpJgMSGy7AeSw",
         "author": "Michael Reeves",
@@ -1633,10 +2002,13 @@
             "making things",
             "chaotic",
             "favorite"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@styropyro",
         "channel_id": "UCJYJgj7rzsn0vdR7fkgjuIA",
         "author": "styropyro",
@@ -1646,10 +2018,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@WilliamOsman2",
         "channel_id": "UCbguawtJlHjxXzdAskubQVg",
         "author": "William Osman 2",
@@ -1659,10 +2034,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@allenpan",
         "channel_id": "UCVS89U86PwqzNkK2qYNbk5A",
         "author": "Allen Pan",
@@ -1672,10 +2050,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Ididathing",
         "channel_id": "UCJLZe_NoiG0hT7QCX_9vmqw",
         "author": "I did a thing",
@@ -1685,10 +2066,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ElectroBOOM",
         "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
         "author": "ElectroBOOM",
@@ -1698,10 +2082,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Glarses",
         "channel_id": "UCFtOX-21N1earf-K58C7HjQ",
         "author": "Glarses",
@@ -1711,10 +2098,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ExtractionsAndIre",
         "channel_id": "UCvFApMFo_AafXbHRyEJefjA",
         "author": "Extractions&Ire",
@@ -1724,10 +2114,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ExplosionsAndFire",
         "channel_id": "UCVovvq34gd0ps5cVYNZrc7A",
         "author": "Explosions&Fire",
@@ -1737,10 +2130,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@NileRed2",
         "channel_id": "UCA0mlN90EHCizvo101nbr-g",
         "author": "NileRed 2",
@@ -1750,10 +2146,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@NileBlue",
         "channel_id": "UC1D3yD4wlPMico0dss264XA",
         "author": "NileBlue",
@@ -1763,10 +2162,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@StuffMadeHere",
         "channel_id": "UCj1VqrHhDte54oLgPG4xpuQ",
         "author": "Stuff Made Here",
@@ -1775,10 +2177,13 @@
         "date": "2026-01-01T04:51:16+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@NileRed",
         "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
         "author": "NileRed",
@@ -1787,10 +2192,13 @@
         "date": "2026-03-19T18:42:09+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@thethoughtemporium",
         "channel_id": "UCV5vCi3jPJdURZwAOO_FNfQ",
         "author": "The Thought Emporium",
@@ -1799,10 +2207,13 @@
         "date": "2026-03-19T15:33:08+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@tom7",
         "channel_id": "UC3azLjQuz9s5qk76KEXaTvA",
         "author": "suckerpinch",
@@ -1811,10 +2222,13 @@
         "date": "2025-12-24T23:30:52+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@tomwildenhain",
         "channel_id": "UCgO8vdeWcywARd99Od-H_8A",
         "author": "Tom Wildenhain",
@@ -1823,10 +2237,13 @@
         "date": "2020-04-01T23:14:10+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@kiwami-japan",
         "channel_id": "UCg3qsVzHeUt5_cPpcRtoaJQ",
         "author": "\u5727\u5012\u7684\u4e0d\u5be9\u8005\u306e\u6975\u307f!",
@@ -1835,10 +2252,13 @@
         "date": "2022-09-04T12:30:06+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@LabCoatz_Science",
         "channel_id": "UCcT_WBynr2K8nANsVrR8BYw",
         "author": "LabCoatz",
@@ -1847,10 +2267,13 @@
         "date": "2026-03-24T12:01:41+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Nighthawkinlight",
         "channel_id": "UCFtc3XdXgLFwhlDajMGK69w",
         "author": "NightHawkInLight",
@@ -1859,10 +2282,13 @@
         "date": "2025-12-18T17:07:45+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@AppliedScience",
         "channel_id": "UCivA7_KLKWo43tFcCkFvydw",
         "author": "Applied Science",
@@ -1871,10 +2297,13 @@
         "date": "2025-11-17T03:02:30+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@PyrotechnicalScience",
         "channel_id": "UC1_kuFbEBdHtf7_c2wIdNVg",
         "author": "Pyrotechnical Science ",
@@ -1883,10 +2312,13 @@
         "date": "2024-06-30T12:51:46+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@EmilyTheEngineer",
         "channel_id": "UC_4YBM08hcpJqLl3vvgTqXg",
         "author": "Emily The Engineer",
@@ -1895,10 +2327,13 @@
         "date": "2026-02-27T18:07:44+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@IanHubert2",
         "channel_id": "UCbmxZRQk-X0p-TOxd6PEYJA",
         "author": "IanHubert",
@@ -1907,10 +2342,13 @@
         "date": "2024-09-04T06:43:48+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@SebastianLague",
         "channel_id": "UCmtyQOKKmrMVaKuRXz02jbQ",
         "author": "Sebastian Lague",
@@ -1919,10 +2357,13 @@
         "date": "2026-03-20T11:46:55+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@KazeN64",
         "channel_id": "UCuvSqzfO_LV_QzHdmEj84SQ",
         "author": "Kaze Emanuar",
@@ -1931,10 +2372,13 @@
         "date": "2026-02-14T15:45:04+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@KazeClips",
         "channel_id": "UCiIHJurLcZu5wzUBtTNqtvw",
         "author": "KazeClips",
@@ -1943,10 +2387,13 @@
         "date": "2026-03-30T17:01:43+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Junferno",
         "channel_id": "UCRb6Mw3fJ6OFzp-cB9X29aA",
         "author": "Junferno",
@@ -1955,10 +2402,13 @@
         "date": "2025-07-11T03:40:54+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@ZenoRogue",
         "channel_id": "UCfCtbgiDxwFtlqrbEralvTw",
         "author": "ZenoRogue",
@@ -1967,10 +2417,13 @@
         "date": "2025-06-19T13:58:23+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@CodeParade",
         "channel_id": "UCrv269YwJzuZL3dH5PCgxUw",
         "author": "CodeParade",
@@ -1979,10 +2432,28 @@
         "date": "2025-12-31T17:08:40+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
+        "channel_url": "http://www.youtube.com/@InkboxSoftware",
+        "channel_id": "UCBciYThS5hOiuQ4aOxw4hHg",
+        "author": "Inkbox",
+        "title": "No More Windows. I'm Using DOS Now.",
+        "video_id": "mwLIgdRj5bI",
+        "date": "2026-02-25T10:01:13+00:00",
+        "tags": [
+            "making things"
+        ]
+    },
+    {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Jam2go",
         "channel_id": "UClSfrg5hVNhIlwv7hEmVD2g",
         "author": "Jam2go",
@@ -1991,10 +2462,13 @@
         "date": "2026-03-29T22:32:12+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@carykh",
         "channel_id": "UC9z7EZAbkphEMg0SP7rw44A",
         "author": "carykh",
@@ -2003,10 +2477,13 @@
         "date": "2026-02-17T02:44:29+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@JohnNelsonMaps",
         "channel_id": "UCpdwmy5JTFNUkKknxHH9Dsg",
         "author": "John Nelson Maps",
@@ -2015,10 +2492,13 @@
         "date": "2026-03-23T13:08:47+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Acerola_t",
         "channel_id": "UCQG40havu4kNpB4pxUDQhYQ",
         "author": "Acerola",
@@ -2027,10 +2507,13 @@
         "date": "2026-01-30T20:04:54+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@marcevanstein",
         "channel_id": "UC0AJ676UuHdQ0zshDEkyfTA",
         "author": "Marc Evanstein / music\u2024py",
@@ -2039,10 +2522,13 @@
         "date": "2026-03-14T21:07:29+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@GoodInventions",
         "channel_id": "UCoQBtJ24OUqB4O285xp9ZrQ",
         "author": "GoodInventions",
@@ -2051,10 +2537,13 @@
         "date": "2020-06-04T14:00:06+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@UnnecessaryInventions",
         "channel_id": "UCB4NFn-8oipHct0IfAQBQrQ",
         "author": "Unnecessary Inventions",
@@ -2064,10 +2553,13 @@
         "tags": [
             "making things",
             "chaotic"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@pocket83",
         "channel_id": "UCoCEoPxruw9HW58O-l3ttDQ",
         "author": "pocket83",
@@ -2076,10 +2568,13 @@
         "date": "2021-10-30T18:36:33+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@hedronrockworks",
         "channel_id": "UCXgpaZxObvROehgpRAmg0SQ",
         "author": "Hedron Rockworks",
@@ -2088,10 +2583,13 @@
         "date": "2025-10-18T14:16:27+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@theCodyReeder",
         "channel_id": "UCu6mSoMNzHQiBIOCkHUa2Aw",
         "author": "Cody'sLab",
@@ -2100,10 +2598,13 @@
         "date": "2026-03-28T13:03:29+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@htme",
         "channel_id": "UCfIqCzQJXvYj9ssCoHq327g",
         "author": "How To Make Everything",
@@ -2112,10 +2613,13 @@
         "date": "2026-03-13T15:54:38+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "show and tell",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@barnabydixon",
         "channel_id": "UCxseO_JzIiiJENauW2RmcJQ",
         "author": "barnabydixon",
@@ -2125,10 +2629,13 @@
         "tags": [
             "making things",
             "show and tell"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "musical",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@Wintergatan",
         "channel_id": "UCcXhhVwCT6_WqjkEniejRJQ",
         "author": "Wintergatan",
@@ -2138,10 +2645,13 @@
         "tags": [
             "making things",
             "musical"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@peter_knetter",
         "channel_id": "UCNMyoMaXJZITZaRKCz7G23Q",
         "author": "Peter Knetter",
@@ -2150,10 +2660,13 @@
         "date": "2026-03-25T22:13:32+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "talking head",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@simonegiertz",
         "channel_id": "UC3KEoMzNz8eYnwBC34RaKCQ",
         "author": "Simone Giertz",
@@ -2163,10 +2676,13 @@
         "tags": [
             "making things",
             "talking head"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@Slingshotchannel",
         "channel_id": "UCVZlxkKqlvVqzRJXhAGq42Q",
         "author": "JoergSprave",
@@ -2175,10 +2691,13 @@
         "date": "2026-03-27T15:26:44+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "making things",
+        "topic": "making things",
+        "style": "",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@Iliketomakestuff",
         "channel_id": "UC6x7GwJxuoABSosgVXDYtTw",
         "author": "I Like To Make Stuff",
@@ -2187,10 +2706,13 @@
         "date": "2026-03-21T15:00:00+00:00",
         "tags": [
             "making things"
-        ],
-        "category": "making things"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@actualol",
         "channel_id": "UCO-hn9MJOu7pOUdGSabKGvA",
         "author": "Actualol",
@@ -2200,10 +2722,13 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@ShutUpandSitDown",
         "channel_id": "UCyRhIGDUKdIOw07Pd8pHxCw",
         "author": "Shut Up & Sit Down",
@@ -2213,10 +2738,29 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
+        "channel_url": "https://www.youtube.com/@TheDiceTower",
+        "channel_id": "UCiwBbXQlljGjKtKhcdMliRA",
+        "author": "The Dice Tower",
+        "title": "What's APPening - Monster Train",
+        "video_id": "VukQt7V3344",
+        "date": "2026-03-30T18:53:45+00:00",
+        "tags": [
+            "toys and games",
+            "review"
+        ]
+    },
+    {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@TolarianCommunityCollege",
         "channel_id": "UC7-hR5EfgpM6oHfiGDkxfMA",
         "author": "Tolarian Community College",
@@ -2226,10 +2770,13 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "chaotic",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@kamsandwich",
         "channel_id": "UC2buJRIGgvkpMpaaCyaIqGA",
         "author": "KamSandwich",
@@ -2239,10 +2786,13 @@
         "tags": [
             "toys and games",
             "chaotic"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@marcoomnigamer",
         "channel_id": "UCqjObEZh6BQw2xpgMjPZ7qg",
         "author": "MarcoOmnigamer",
@@ -2252,10 +2802,13 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@Wedelvedeeply",
         "channel_id": "UCQIfzjNGMhdzbHzJQ2jh-lQ",
         "author": "Inside the Box",
@@ -2265,10 +2818,13 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@jackredathewarp",
         "channel_id": "UCmJ6GCpVC6v_cXXIBatFlsw",
         "author": "Jack Reda - Future Pastimes Games",
@@ -2278,10 +2834,13 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@Shelfside",
         "channel_id": "UCtT0CIZIXLMlPdQVwmI6RjA",
         "author": "Shelfside",
@@ -2291,10 +2850,13 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "toys and games",
+        "topic": "toys and games",
+        "style": "review",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@QuestingBeast",
         "channel_id": "UCvYwePdbWSEwUa-Pk02u3Zw",
         "author": "Questing Beast",
@@ -2304,10 +2866,13 @@
         "tags": [
             "toys and games",
             "review"
-        ],
-        "category": "toys and games"
+        ]
     },
     {
+        "category": "original animation",
+        "topic": "original animation",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@WorldbuildingNotes",
         "channel_id": "UCncTjqw75krp9j_wRRh5Gvw",
         "author": "Worldbuilding Notes",
@@ -2316,10 +2881,13 @@
         "date": "2025-07-15T01:00:03+00:00",
         "tags": [
             "original animation"
-        ],
-        "category": "original animation"
+        ]
     },
     {
+        "category": "original animation",
+        "topic": "original animation",
+        "style": "",
+        "favorite": "favorite",
         "channel_url": "http://www.youtube.com/@Worthikids",
         "channel_id": "UCxXu9tCU63mF1ntk89XPkzA",
         "author": "Worthikids",
@@ -2329,10 +2897,13 @@
         "tags": [
             "original animation",
             "favorite"
-        ],
-        "category": "original animation"
+        ]
     },
     {
+        "category": "original animation",
+        "topic": "original animation",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@homestarrunnerdotcom",
         "channel_id": "UCMkbjxvwur30YrFWw8kpSaw",
         "author": "homestarrunnerdotcom",
@@ -2341,10 +2912,13 @@
         "date": "2025-11-24T14:09:52+00:00",
         "tags": [
             "original animation"
-        ],
-        "category": "original animation"
+        ]
     },
     {
+        "category": "original animation",
+        "topic": "original animation",
+        "style": "",
+        "favorite": "",
         "channel_url": "http://www.youtube.com/@monlenz",
         "channel_id": "UCZdrTo_md37z3iogKYrVgCw",
         "author": "Monstergarden",
@@ -2353,10 +2927,13 @@
         "date": "2026-03-29T12:12:01+00:00",
         "tags": [
             "original animation"
-        ],
-        "category": "original animation"
+        ]
     },
     {
+        "category": "original animation",
+        "topic": "original animation",
+        "style": "",
+        "favorite": "",
         "channel_url": "https://www.youtube.com/@TalesofAlethrion",
         "channel_id": "UCwuALck_lp7LxzQcoskRjbQ",
         "author": "Tales of Alethrion",
@@ -2365,7 +2942,6 @@
         "date": "2026-01-04T19:05:06+00:00",
         "tags": [
             "original animation"
-        ],
-        "category": "original animation"
+        ]
     }
 ]
